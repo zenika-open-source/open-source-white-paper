@@ -25,6 +25,7 @@ Un autre bon moyen d'identifier un projet sur lequel participer est de sélectio
 Un fois que tu as trouvé le ou les projets de tes rêves, il te faudra commencer par te documenter sur ces projets, par exemple en lisant le README, le code de conduite et le guide de contribution. Ce n'est pas très long, mais nécessaire avant de démarrer une contribution. Ils te donneront les codes, les règles et les procédures à respecter pour la consistance et maintenance du  projet.
 
 **Le code de conduite (code of conduct)**
+
 La plupart des projets open source écrivent un code de conduite. Il permet de définir des règles et des comportements à adopter ou non sur le projet
 * Le respect des participants et des différents points de vue.
 * Écouter et accepter les feedbacks sur ses contributions. Il faut s'attendre à de potentiels désaccords. Il ne faut pas les prendre personnellement. Parfois, lors des revues, il est possible que l'on ne soit pas du même avis sur certaines décisions ou approches adoptées. Il est alors très important de rester professionnel et respecter le code de conduite. Tout feedback est bon à prendre et c'est lors de ce type de discussion que l'on apprend le plus.
@@ -33,6 +34,7 @@ La plupart des projets open source écrivent un code de conduite. Il permet de d
 Voici un exemple de code de conduite utilisé par de nombreux projets : [*Contributor convenant*](https://www.contributor-covenant.org/). Les règles qu'il définit devraient être appliquées autant dans les projets open source que dans le milieu professionnel.
 
 **Le guide de contribution**
+
 Il permet de définir les workflows et les manières de coder sur le projet afin de comprendre les normes et les attentes de la communauté. Par exemple :
 * Comment mettre en place mon environnement de développement ?
 * Comment poster une issue ?
@@ -43,6 +45,7 @@ Il permet de définir les workflows et les manières de coder sur le projet afin
 Si une contribution ne suit pas ces bonnes pratiques, il se peut qu'elle soit rejetée avant même d'avoir été revue. Ces normes servent à garder une cohérence dans le projet mais également à faire gagner du temps aux mainteneurs du projet. Donc à lire avec attention.
 
 **Rejoindre la communauté**
+
 Un projet ne se limite pas à la documentation et au code source. Il est également important de comprendre et interagir avec la communauté du projet. Il y a différents rôles dans un projet open source, les trois principaux rôles sont :
 * Les mainteneurs ou core contributors, qui sont à l’origine du projet ou ont intégré ce rôle suite à l’ensemble des contributions qu’ils ont réalisées.
 * Les contributeurs, qui participent à la vie du projet en proposant des contributions (documentation, correction de bug...) mais également en répondant à des questions ou des tickets des utilisateurs.
@@ -63,15 +66,18 @@ Avant tout, sache que tu n'as pas besoin de savoir coder pour contribuer sur des
 Toutes les contributions sont bonnes et servent au projet. Voici une liste non exhaustive des tâches que tu peux réaliser pour aider les projets open source :
 
 **Documentation**
+
 * Écrire et corriger la documentation du projet ;
 * traduire la documentation.
 
 **Organisation**
+
 * Soumettre des bugs ou nouvelles fonctionnalités ;
 * répondre aux issues, les classer et les fermer si nécessaire ;
 * répondre aux questions (p. ex. sur GitHub, Stack Overflow…).
 
 **Communication**
+
 * Écrire des articles ou tutoriels ;
 * organiser des meetups ou conférences sur le projet ;
 * communiquer sur twitter (nouvelles releases, contributions…) ;
@@ -79,6 +85,7 @@ Toutes les contributions sont bonnes et servent au projet. Voici une liste non e
 * développer un site pour le projet.
 
 **Coder**
+
 * Réaliser des revues de codes ;
 * développer les tests ;
 * automatiser le projet (CI…) ;
