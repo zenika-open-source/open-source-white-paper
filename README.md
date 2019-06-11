@@ -4,7 +4,7 @@ White paper about Open Source by Zenika
 
 ## Table of content
 
-### Chapter 1: Getting started
+### [Chapter 1: Getting started](01-getting-started.md)
 > How to start in open source world ?
 
 ### Chapter 2: Licenses
