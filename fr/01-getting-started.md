@@ -1,10 +1,10 @@
-# Chapitre 1: Getting Started 🥚
+# Chapitre 1: Démarrer dans l'open source 🥚
 
 Le monde de l'open source est vaste, il est très facile de s'y perdre. Quand on est nouveau dans l'open source, ce monde peut paraître peu accessible et intimidant. Par où commencer ? Y a-t-il des règles et des codes à suivre ? Comment contribuer même si je ne code pas ?
 Pas d'inquiétude, dans cet article nous allons te donner tous les codes nécessaires pour bien démarrer, choisir le bon projet et proposer sa première contribution.
 
 
-## Premiers pas dans l’open source 🐣
+## Premiers pas 🐣
 
 Tout d'abord, il faut déterminer sur quel projet tu souhaites démarrer ta première contribution. Comme il existe des millions de projets open source, il peut être difficile de trouver son chemin.
 
