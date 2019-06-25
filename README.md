@@ -7,6 +7,8 @@ White paper about Open Source by Zenika
 ### [Chapter 1: Getting started](01-getting-started.md)
 > How to start in open source world ?
 
+[English version](en/01-getting-started.md) • [French version](fr/01-getting-started.md)
+
 ### Chapter 2: Licenses
 > How does licence work in open source ?
 
