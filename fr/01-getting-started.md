@@ -16,7 +16,7 @@ Il est également important de prendre en compte la maturité du projet et sa ta
 
 Un autre bon moyen d'identifier un projet sur lequel participer est de **sélectionner ceux qui recherchent activement des contributeurs.** Plusieurs sites et outils permettent d’en trouver :
 
-* [Awesome for beginners](https://github.com/MunGell/awesome-for-beginners)* est une liste de projets à la recherche de contributeurs (débutants ou non) en listant leurs *« Good First Issues »*. De la même manière, le site [Up for grabs](https://up-for-grabs.net) permet de trouver des projets à la recherche de contributeurs.
+* [Awesome for beginners](https://github.com/MunGell/awesome-for-beginners) est une liste de projets à la recherche de contributeurs (débutants ou non) en listant leurs *« Good First Issues »*. De la même manière, le site [Up for grabs](https://up-for-grabs.net) permet de trouver des projets à la recherche de contributeurs.
 
 * [CodeTriage](https://www.codetriage.com/) est un outil permettant de s'abonner à des projets open source et de recevoir de nouvelles demandes de contribution tous les jours.
 
@@ -55,7 +55,6 @@ Un projet ne se limite pas à la documentation et au code source. Il est égalem
 * Et les utilisateurs, qui vont bien sûr utiliser le projet mais surtout donner des feedbacks, poster des bugs, proposer des améliorations ou poser des questions sur des forums.
 
 Les moyens de communication de la communauté varient en fonction des projets. Il peut s'agir d'une mailing list, d'un Slack, d'un Discord ou tout autre outil du même type. Elle permet de poser des questions, d'aider à définir les roadmaps, ou tout simplement de discuter entre passionnés.
-
 
 
 ## Première contribution 🐥
