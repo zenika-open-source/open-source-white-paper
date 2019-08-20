@@ -17,7 +17,7 @@ We will describe each one and provide you guides to help you writing them.
 
 The first is well known and you probably already have one but let's talk a bit about README.md. 
 
-Mike McQuaid theorized about [the open source contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) and how to get contributors on your open source projects. You need to provide informations for every type of visitors (*users*, *contributors*) in your README.
+Mike McQuaid theorized about [the open source contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) and how to get contributors on your open source projects. You need to provide informations for every type of visitors (*users*, *contributors*, *maintainers*) in your README.
 
 > Your project description and first paragraph of your README should be a simple summary of your project which hits all the important keywords that people search for.
 > -- [<cite>Andrey Petrov</cite>](https://medium.com/code-zen/how-to-maintain-a-successful-open-source-project-aaa2a5437d3a)
@@ -56,6 +56,19 @@ If you want code contributors you need to give all details about how to set up d
 The contributing guide is also the good place to describe coding styles. You can enforce good practices like testing or conventions like in [Immutadot's contributing guide](https://github.com/zenika-open-source/immutadot/blob/master/.github/CONTRIBUTING.md#tests-and-code-style-policeman).
 
 If your project is on GitHub this file will be [automatically linked](https://help.github.com/en/articles/setting-guidelines-for-repository-contributors) when a contributor open an issue or create apull request.
+
+### Code of conduct
+
+> Having a CODE_OF_CONDUCT.md in your public repository lets potential *contributors* know in advance how they can expect to be treated by the community and *maintainers*.
+> -- [<cite>Michael Jolley</cite>](https://dev.to/michaeljolley/using-a-contributing-codeofconduct-to-assist-others-in-contributing-to-public-repositories-1l90)
+
+The code of conduct of your project is a document that protects every participants. It helps creating a welcoming community. 
+
+A good addition to your code of conduct is an explanation about how to plan to enforce your code of coduct. It's important to show that you take it seriously so everybody knows what action will be taken in case of a code of coduct violation.
+
+You should also clarify the way to report a violation like an email.
+
+The most famous code of conduct is [Contributor Covenant](https://www.contributor-covenant.org). It is used by thousands of open projects. If your project is on GitHub you can directly add Contributor Covenant or [Citizen Code of Conduct](http://citizencodeofconduct.org/) through the repository interface. You should go to `Insights > Community > Code of conduct` by clicking on the Add button and choosing a code of conduct it will create a commit for you.
 
 ## Usage 
 
