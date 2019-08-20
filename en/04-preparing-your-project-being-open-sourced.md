@@ -1,8 +1,8 @@
-# Chapter 4: Maintaining
+# Preparing your project being open sourced
 
-In a [previous article](https://oss.zenika.com/white-paper/getting-started), we helped you submitting your first contribution. You now want to launch your own open source project but you don't know what to do before letting everyone view your code ? No worries, in this article we will give you all pre-requisites you need to launch your project, methods to facilitate contributions and tools to help you maintain your project in the long term.
+In a [previous article](https://oss.zenika.com/white-paper/getting-started), we helped you submitting your first contribution. You now want to launch your own open source project but you don't know what to do before letting everyone view your code ? No worries, in this article we will give you all pre-requisites you need to launch your project.
 
-## Pre-requisites before launching your project
+## Pre-requisites
 
 If you want your project to have contributions you need to write a minimum of documentation. There are four files that are essential:
 
@@ -13,7 +13,7 @@ If you want your project to have contributions you need to write a minimum of do
 
 We will describe each one and provide you guides to help you writing them.
 
-### README
+## README
 
 The first is well known and you probably already have one but let's talk a bit about README.md. 
 
@@ -34,7 +34,7 @@ Last but not least you should provide instructions for future contributors. A si
 
 A simple [template](https://www.makeareadme.com/#template-1) is available on makeareadme.com. It contains all the sections we talked about. You can find more informations about how to write a good README on this website. You can also use tools to generate your README like [readme-md-generator](https://github.com/kefranabg/readme-md-generator). It fill your README with informations extracted from git configuration or your `package.json` file if your project is made with JavaScript. You can find [README generators](https://github.com/search?utf8=%E2%9C%93&q=generate+readme&type=Repositories) for other languages on GitHub.
 
-### License
+## License
 
 The LICENSE file is what make open source possible. It protects *users* and *contributors* by giving them rights to use, copy, modify and contribute to your project. This file is mandatory you should consider not contributing to projects that don't provide a license.
 
@@ -42,7 +42,7 @@ The LICENSE file is what make open source possible. It protects *users* and *con
 
 We will talk more about this important and complicated subject in a further article. If you want to get informed about its publication don't hesitate to follow our twitter [@ZenikaOSS](https://twitter.com/ZenikaOSS)!
 
-### Contributing guide
+## Contributing guide
 
 > A CONTRIBUTING.md file, in your open source repository or site, provides potential project contributors with a short guide to how they can help with your project or study group. It is convention to capitalize the word "contributing" as the file title, and to save it as a resource in markdown (hence the extension .md).
 > -- [<cite>Mozilla Science Lab</cite>](https://mozillascience.github.io/working-open-workshop/contributing/)
@@ -57,7 +57,7 @@ The contributing guide is also the good place to describe coding styles. You can
 
 If your project is on GitHub this file will be [automatically linked](https://help.github.com/en/articles/setting-guidelines-for-repository-contributors) when a contributor open an issue or create apull request.
 
-### Code of conduct
+## Code of conduct
 
 > Having a CODE_OF_CONDUCT.md in your public repository lets potential *contributors* know in advance how they can expect to be treated by the community and *maintainers*.
 > -- [<cite>Michael Jolley</cite>](https://dev.to/michaeljolley/using-a-contributing-codeofconduct-to-assist-others-in-contributing-to-public-repositories-1l90)
@@ -70,24 +70,6 @@ You should also clarify the way to report a violation like an email.
 
 The most famous code of conduct is [Contributor Covenant](https://www.contributor-covenant.org). It is used by thousands of open projects. If your project is on GitHub you can directly add Contributor Covenant or [Citizen Code of Conduct](http://citizencodeofconduct.org/) through the repository interface. You should go to `Insights > Community > Code of conduct` by clicking on the Add button and choosing a code of conduct it will create a commit for you.
 
-## Usage 
+Your project is now ready to be open sourced. You can start promoting it and getting your first contributions!
 
-semver / changelog
-Documentation
-
-## Facilitate contributions
-
-Templates
-Fun site to generate templates or use Github https://www.talater.com/open-source-templates/#/
-Issue triaging
-Get confidence in contributions automate tests
-Communication
-
-## Automate everything
-
-Bots and Hygie
-
-## Open source doesn't mean free
-
-open collective
-
+If you want further news about our projects or future articles don't forget to follow our twitter [@ZenikaOSS](https://twitter.com/ZenikaOSS)!
