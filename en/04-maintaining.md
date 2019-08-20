@@ -32,7 +32,7 @@ Another important part to document in your README is how to install and use your
 
 Last but not least you should provide instructions for future contributors. A simple section that link your contributing guide is most of the time enough.
 
-A simple [template](https://www.makeareadme.com/#template-1) is available on makeareadme.com. It contains all the sections we talked about. You can find more informations about how to write a good README on this website. You can also use tools to generate your README like [readme-md-generator](https://github.com/kefranabg/readme-md-generator). It fill your README with informations extracted from git configuration or your `package.json` file if your project is made with JavaScript.
+A simple [template](https://www.makeareadme.com/#template-1) is available on makeareadme.com. It contains all the sections we talked about. You can find more informations about how to write a good README on this website. You can also use tools to generate your README like [readme-md-generator](https://github.com/kefranabg/readme-md-generator). It fill your README with informations extracted from git configuration or your `package.json` file if your project is made with JavaScript. You can find [README generators](https://github.com/search?utf8=%E2%9C%93&q=generate+readme&type=Repositories) for other languages on GitHub.
 
 ### License
 
