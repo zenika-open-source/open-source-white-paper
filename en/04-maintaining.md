@@ -34,6 +34,14 @@ Last but not least you should provide instructions for future contributors. A si
 
 A simple [template](https://www.makeareadme.com/#template-1) is available on makeareadme.com. It contains all the sections we talked about. You can find more informations about how to write a good README on this website. You can also use tools to generate your README like [readme-md-generator](https://github.com/kefranabg/readme-md-generator). It fill your README with informations extracted from git configuration or your `package.json` file if your project is made with JavaScript.
 
+### License
+
+The LICENSE file is what make open source possible. It protects users and contributors by giving them rights to use, copy, modify and contribute to your project. This file is mandatory you should consider not contributing to projects that don't provide a license.
+
+[OSI](https://opensource.org/) is an organism that promote open source software and communities for over 20 years. They have an process to review licenses. The OSI-approved licenses are the most popular licenses like [MIT](https://opensource.org/licenses/MIT) or [Apache 2.0](https://opensource.org/licenses/Apache-2.0). We can find a [good comparision](https://choosealicense.com/licenses/) between licenses on [choosealicense.com](https://choosealicense.com/).
+
+We will talk more about this important and complicated subject in a further article. If you want to get informed about its publication don't hesitate to follow our twitter [@ZenikaOSS](https://twitter.com/ZenikaOSS)!
+
 ## Usage 
 
 semver / changelog
