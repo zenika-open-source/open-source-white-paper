@@ -64,7 +64,7 @@ If your project is on GitHub this file will be [automatically linked](https://he
 
 The code of conduct of your project is a document that protects every participants. It helps creating a welcoming community. 
 
-A good addition to your code of conduct is an explanation about how you plan to enforce your code of conduct. It's important to show that you take it seriously so everybody knows what action will be taken in case of a code of conduct violation.
+A good addition to your code of conduct is an explanation about how you plan to enforce it. It's important to show that you take it seriously so everybody knows what action will be taken in case of a code of conduct violation.
 
 You should also clarify the way to report a violation like an email.
 
