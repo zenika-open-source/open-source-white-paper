@@ -40,8 +40,6 @@ The LICENSE file is what make open source possible. It protects *users* and *con
 
 [OSI](https://opensource.org/) is an organism that promote open source software and communities for over 20 years. They have an process to review licenses. The OSI-approved licenses are the most popular licenses like [MIT](https://opensource.org/licenses/MIT) or [Apache 2.0](https://opensource.org/licenses/Apache-2.0). We can find a [good comparision](https://choosealicense.com/licenses/) between licenses on [choosealicense.com](https://choosealicense.com/).
 
-We will talk more about this important and complicated subject in a further article. If you want to get informed about its publication don't hesitate to follow our twitter [@ZenikaOSS](https://twitter.com/ZenikaOSS)!
-
 ## Contributing guide
 
 > A CONTRIBUTING.md file, in your open source repository or site, provides potential project contributors with a short guide to how they can help with your project or study group. It is convention to capitalize the word "contributing" as the file title, and to save it as a resource in markdown (hence the extension .md).
