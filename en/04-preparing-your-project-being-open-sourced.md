@@ -1,6 +1,6 @@
 # Preparing your project being open sourced
 
-In a [previous article](https://oss.zenika.com/white-paper/getting-started), we showed you how to make your first contribution. You now want to launch your own open source project but you don't know what to do before letting everyone view your code? No worries, in this article we will give you all pre-requisites you need to launch your project.
+In a [previous article](https://oss.zenika.com/white-paper/getting-started), we helped you submit your first contribution. You now want to launch your own open source project but you don't know what to do before letting everyone view your code ? No worries, in this article we will give you all the pre-requisites you need to launch your project.
 
 ## Pre-requisites
 
@@ -35,7 +35,7 @@ A [template](https://www.makeareadme.com/#template-1) is available on makeareadm
 
 ## License
 
-The LICENSE file is what make open source possible. It protects both _users_ and _contributors_ by giving them rights to use, copy, modify and contribute to your project. This file is mandatory, you should consider not contributing to projects that don't provide a license.
+The LICENSE file is what makes open source possible. It protects both _users_ and _contributors_ by giving them rights to use, copy, modify and contribute to your project. This file is mandatory, you should consider not contributing to projects that don't provide a license.
 
 [OSI](https://opensource.org/) is an organism that has been promoting open source software and communities for over 20 years. They have a process to review licenses. The OSI-approved licenses are the most popular ones like [MIT](https://opensource.org/licenses/MIT) or [Apache 2.0](https://opensource.org/licenses/Apache-2.0). You can find a [good comparison](https://choosealicense.com/licenses/) between licenses on [choosealicense.com](https://choosealicense.com/).
 
@@ -43,7 +43,7 @@ The LICENSE file is what make open source possible. It protects both _users_ and
 
 A CONTRIBUTING.md file, in your open source repository or site, provides potential project contributors with a short guide to how they can help with your project or study group. It is convention to capitalize the word "contributing" as the file title, and to save it as a resource in markdown (hence the extension .md). -- [Mozilla Science Lab](https://mozillascience.github.io/working-open-workshop/contributing/)
 
-Earlier we talked about The open source contributor funnel in our readme, we provided documentation to help _users_ installing and using your project, we will now focus on _contributors_. The contributing guide is designed to give instructions to everybody that want to participate on your project.
+Earlier we talked about The open source contributor funnel in our readme, we provided documentation to help _users_ installing and using your project, we will now focus on _contributors_. The contributing guide is designed to give instructions to everybody that want to participate to your project.
 
 Most of the time contributions are made by users because they encounter an issue using your project. It's nice to have instructions on how to report a bug or suggest a new feature.
 
@@ -61,7 +61,7 @@ The code of conduct of your project is a document that protects every participan
 
 A good addition to your code of conduct is an explanation about how you plan to enforce it. It's important to show that you take it seriously so everybody knows what action will be taken in case of a code of conduct violation.
 
-You should also clarify the way to report a violation, such as an email.
+You should also clarify the way to report a violation, such as through an email.
 
 The most famous code of conduct is [Contributor Covenant](https://www.contributor-covenant.org/). It is used by thousands of open source projects. If your project is on GitHub you can directly add Contributor Covenant or [Citizen Code of Conduct](http://citizencodeofconduct.org/) through your repository interface. You need to go to `Insights > Community > Code of conduct`, then by clicking on the Add button and choosing a code of conduct, it will create a commit for you.
 
