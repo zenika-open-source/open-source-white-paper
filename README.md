@@ -25,7 +25,7 @@ White paper about Open Source by Zenika
 
 [French version](https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/blob/master/README-fr.md)
 
-[Deutch version](https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/blob/master/README-de.md)
+[Deutsch version](https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/blob/master/README-de.md)
 
 
 ### Chapter 4: Licenses
