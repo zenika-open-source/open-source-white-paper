@@ -1,17 +1,17 @@
 
 # Chapitre 4: Licences
 
-Que vous soyez un développeur ou bien un mainteneur de projets open source, il est indispensable d'avoir une connaissance des différents types de licences. Quels sont vos droits et devoirs lorsque vous les utilisez. Plusieurs types de licences s’offrent à vous et chacune peut présenter des avantages et des inconvénients qu’il convient de mesurer avant de choisir. Mais il faut rester vigilant. Il peut y avoir des confusions entre les différentes catégories de logiciels « libres » (OSS, freeware, Domaine public…) et il existe des dizaines de licences libres dont certaines sont virales. Cet article a pour but de vous aider à comprendre les différentes caractéristiques des licences et de choisir la plus adaptée à votre projet.
+Que vous soyez un développeur ou bien un mainteneur de projets Open Source, il est indispensable d'avoir une connaissance des différents types de licences. Quels sont vos droits et devoirs lorsque vous les utilisez. Plusieurs types de licences s’offrent à vous et chacune peut présenter des avantages et des inconvénients qu’il convient de mesurer avant de choisir. Mais il faut rester vigilant. Il peut y avoir des confusions entre les différentes catégories de logiciels « libres » (OSS, freeware, Domaine public…) et il existe des dizaines de licences libres dont certaines sont virales. Cet article a pour but de vous aider à comprendre les différentes caractéristiques des licences et de choisir la plus adaptée à votre projet.
 
 ## Logiciel libre & Open Source
 
-La [Free Software Foundation (FSF)](www.fsf.org), société américaine à but non lucratif fondée en 1985 par R. Stallman, soutient le système d’exploitation GNU et gère les licences « GPL »
+La [Free Software Foundation (FSF)](www.fsf.org), société américaine à but non lucratif fondée en 1985 par R. Stallman, soutient le système d’exploitation GNU et gère les licences « GPL ».
 
 Cette fondation donne une définition du logiciel libre basée sur quatre libertés irrévocables:
 
-- Liberté d'utiliser le logiciel
-- Liberté de copier le logiciel. (comprend la liberté de vendre des copies)
-- Liberté d'étudier le logiciel. (suppose l'accès au code source)
+- Liberté d'utiliser le logiciel.
+- Liberté de copier le logiciel (comprend la liberté de vendre des copies).
+- Liberté d'étudier le logiciel (suppose l'accès au code source).
 - Liberté de modifier le logiciel et de redistribuer les versions modifiées.
 
 Les œuvres sous licence libre ne sont pas toujours disponibles gratuitement et les services associés (développement, garanties, support, etc.) sont souvent payants. Une œuvre contaminée par une licence libre, qui pouvait au départ n’être disponible que contre paiement, doit être rediffusée librement.
@@ -19,7 +19,7 @@ Les œuvres sous licence libre ne sont pas toujours disponibles gratuitement et 
 > « Think Free as Free speech and not Free beer »
 > – R. Stallman
 
-Tandis que l'[Open Source Initiative (OSI)](http://opensource.org/), société américaine à but non lucratif fondée en 1998 par E. Raymond & B. Perens promeut le code Open Source
+Tandis que l'[Open Source Initiative (OSI)](http://opensource.org/), société américaine à but non lucratif fondée en 1998 par E. Raymond & B. Perens promeut le code Open Source.
 
 Selon l’OSI, pour qu’un logiciel soit Open Source, sa licence doit respecter les 10 critères suivants:
 
@@ -45,7 +45,7 @@ https://twitter.com/OpenSourceOrg/status/1174073039534706688?s=20
 
 Avant de présenter les différents types de licences disponibles, il est nécessaire de comprendre les différents types de droits appliqués aux œuvres. Voici une explication, en termes simples, des 3 grands domaines d'application des droits.
 
-Le **copyright** (ou droit d'auteur) est un droit accordé à l'auteur de l'œuvre originale, y compris le droit d'autoriser ou d'interdire la publication ou la distribution de leur œuvre. Ils protègent les auteurs de la copie ou de la vente non autorisée de leurs œuvres. Les droits d'auteur sont accordés pour une durée limitée, au terme de laquelle l'œuvre entre dans le domaine public.
+Le **copyright** (ou droit d'auteur) est un droit accordé à l'auteur de l'œuvre originale, y compris le droit d'autoriser ou d'interdire la publication ou la distribution de son œuvre. Il protège les auteurs de la copie ou de la vente non autorisée de leurs œuvres. Les droits d'auteur sont accordés pour une durée limitée, au terme de laquelle l'œuvre entre dans le domaine public.
 
 Le **domaine public** comprend toutes les créations auxquelles ne s'applique aucun droit de propriété intellectuelle exclusif. Ces droits peuvent être expirés, avoir été confisqués, expressément renoncés ou être inapplicables. Les droits d’auteur sont généralement valables jusqu’à 50 à 100 ans après le décès de l’auteur. En termes simples, tout le monde peut utiliser, modifier et vendre ces créations sans l’autorisation de son auteur.
 
@@ -83,7 +83,7 @@ Les threads Stack Overflow sont également sous licence. Lorsque vous copiez-col
 
 ### Copyleft faible
 
-Une licence avec un copyleft faible **un caractère faiblement contaminant**, elle oblige à distribuer le logiciel libre modifié sous la même licence et à rendre disponible le code source associé.
+Une licence avec un copyleft faible a **un caractère faiblement contaminant**, elle oblige à distribuer le logiciel libre modifié sous la même licence et à rendre disponible le code source associé.
 
 **Quelques licences à copyleft faible:**
 - LGPL: Lesser GPL
@@ -93,7 +93,7 @@ Une licence avec un copyleft faible **un caractère faiblement contaminant**, el
 
 ### Permissive
 
-Les licences permissives offrent **la plus grande liberté avec un partage sans condition**. En général, seule la citation des auteurs originaux est demandée et permettent à tout acteur de changer la licence sous laquelle le logiciel est distribué et sans obligation de diffusion.
+Les licences permissives offrent **la plus grande liberté avec un partage sans condition**. En général, seule la citation des auteurs originaux est demandée et elles permettent à tout acteur de changer la licence sous laquelle le logiciel est distribué, sans obligation de diffusion.
 
 **Quelques licences permissives:**
 - BSD : Berkeley Software Distribution
@@ -105,6 +105,6 @@ Il existe également des licences permissives plus esotériques. Comme la Postca
 
 ## Conclusion
 
-En tant que développeur, si vous utilisez des librairies ou logiciel, n'oubliez pas de vérifier leur licence car elle peuvent impacter celle de votre logiciel. En tant que mainteneur de projets open source, choisissez correctement votre licence, que ce soit pour protéger votre œuvre ou son utilisation. Le site web [« Choose a license »]( https://choosealicense.com/) vous permet de bien choisir sa licence en fonction de vos usages.
+En tant que développeur, si vous utilisez des librairies ou logiciels tiers, n'oubliez pas de vérifier leur licence car elle peut impacter celle de votre logiciel. En tant que mainteneur de projets Open Source, choisissez correctement votre licence, que ce soit pour protéger votre œuvre ou son utilisation. Le site web [« Choose a license »]( https://choosealicense.com/) vous permet de bien choisir sa licence en fonction de vos usages.
 
 
