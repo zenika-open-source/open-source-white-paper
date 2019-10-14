@@ -1,91 +1,87 @@
+# Chapter 4: Licenses
 
-# Chapitre 4: Licences
+Whether you are a developer or an open source project maintainer, it is essential to have knowledge of the different types of licenses. What are your rights and duties when you use them? There are several types of licenses available to you and each may have advantages and disadvantages that should be measured before choosing. But we must remain vigilant. There may be confusion between different categories of "free" software (OSS, freeware, public domain ...) and there are dozens of free licenses, some of which are viral. This article is intended to help you understand the different features of licenses and choose the most suitable for your project.
 
-Que vous soyez un développeur ou bien un mainteneur de projets open source, il est indispensable d'avoir une connaissance des différents types de licences. Quels sont vos droits et devoirs lorsque vous les utilisez. Plusieurs types de licences s’offrent à vous et chacune peut présenter des avantages et des inconvénients qu’il convient de mesurer avant de choisir. Mais il faut rester vigilant. Il peut y avoir des confusions entre les différentes catégories de logiciels « libres » (OSS, freeware, Domaine public…) et il existe des dizaines de licences libres dont certaines sont virales. Cet article a pour but de vous aider à comprendre les différentes caractéristiques des licences et de choisir la plus adaptée à votre projet.
+## Free Software & Open Source
 
-## Logiciel libre & Open Source
+The Free Software Foundation (FSF) (www.fsf.org), an American non-profit company founded in 1985 by R. Stallman, supports the GNU operating system and manages "GPL" licenses
 
-La [Free Software Foundation (FSF)](www.fsf.org), société américaine à but non lucratif fondée en 1985 par R. Stallman, soutient le système d’exploitation GNU et gère les licences « GPL »
+This foundation gives a definition of free software based on four irrevocable liberties:
 
-Cette fondation donne une définition du logiciel libre basée sur quatre libertés irrévocables:
+- Freedom to use the software
+- Freedom to copy the software. (includes the freedom to sell copies)
+- Freedom to study the software. (suppose access to the source code)
+- Freedom to modify the software and redistribute the modified versions.
 
-- Liberté d'utiliser le logiciel
-- Liberté de copier le logiciel. (comprend la liberté de vendre des copies)
-- Liberté d'étudier le logiciel. (suppose l'accès au code source)
-- Liberté de modifier le logiciel et de redistribuer les versions modifiées.
+Free license works are not always available for free and associated services (development, warranties, support, etc.) are often paid for. A work contaminated by a free license, which could initially be available only against payment, must be rebroadcast freely.
 
-Les œuvres sous licence libre ne sont pas toujours disponibles gratuitement et les services associés (développement, garanties, support, etc.) sont souvent payants. Une œuvre contaminée par une licence libre, qui pouvait au départ n’être disponible que contre paiement, doit être rediffusée librement.
+> « Think Free as Free speech and not Free beer » – R. Stallman
 
-> « Think Free as Free speech and not Free beer »
-> – R. Stallman
+While the Open Source Initiative (OSI) (http://opensource.org/), an American non-profit society founded in 1998 by E. Raymond & B. Perens, promotes open source code
 
-Tandis que l'[Open Source Initiative (OSI)](http://opensource.org/), société américaine à but non lucratif fondée en 1998 par E. Raymond & B. Perens promeut le code Open Source
+According to OSI, for software to be open source, its license must meet the following 10 criteria:
 
-Selon l’OSI, pour qu’un logiciel soit Open Source, sa licence doit respecter les 10 critères suivants:
+- Free redistribution.
+- Provision of the source code.
+- Allow derivative works and modifications.
+- Integrity of the source code of the author.
+- No discrimination between individuals or groups.
+- No discrimination between the fields of application.
+- No restriction on the distribution of the license (vs NDA).
+- The license must not be specific to a product.
+- The license must not restrict other software.
+- The license must be technologically neutral.
 
-- Redistribution libre.
-- Fourniture du code source.
-- Permettre les travaux dérivés et modifications.
-- Intégrité du code source de l’auteur.
-- Pas de discrimination entre les personnes ou les groupes.
-- Pas de discrimination entre les domaines d'application.
-- Pas de restriction sur la distribution de la licence (vs NDA).
-- La licence ne doit pas être spécifique à un produit.
-- La licence ne doit pas restreindre d'autres logiciels.
-- La licence doit être technologiquement neutre.
-
-
-> « Les deux termes décrivent pratiquement la même catégorie de logiciel. Mais ils représentent des vues basées sur des valeurs fondamentalement différentes. »
-> – R. Stallman
+> « Both terms describe virtually the same category of software. But they represent views based on fundamentally different values. » - R. Stallman
 
 https://twitter.com/OpenSourceOrg/status/1174073039534706688?s=20
 
 
-## Copyright, copyleft et domaine public
+## Copyright, copyleft and public domain
 
-Avant de présenter les différents types de licences disponibles, il est nécessaire de comprendre les différents types de droits appliqués aux œuvres. Voici une explication, en termes simples, des 3 grands domaines d'application des droits.
+Before presenting the different types of licenses available, it is necessary to understand the different types of rights applied to works. Here is an explanation, in simple terms, of the 3 major areas of enforcement.
 
-Le **copyright** (ou droit d'auteur) est un droit accordé à l'auteur de l'œuvre originale, y compris le droit d'autoriser ou d'interdire la publication ou la distribution de leur œuvre. Ils protègent les auteurs de la copie ou de la vente non autorisée de leurs œuvres. Les droits d'auteur sont accordés pour une durée limitée, au terme de laquelle l'œuvre entre dans le domaine public.
+** copyright ** (or copyright) is a right granted to the author of the original work, including the right to authorize or prohibit the publication or distribution of their work. They protect authors from copying or unauthorized sale of their works. Copyright is granted for a limited period of time, after which the work enters the public domain.
 
-Le **domaine public** comprend toutes les créations auxquelles ne s'applique aucun droit de propriété intellectuelle exclusif. Ces droits peuvent être expirés, avoir été confisqués, expressément renoncés ou être inapplicables. Les droits d’auteur sont généralement valables jusqu’à 50 à 100 ans après le décès de l’auteur. En termes simples, tout le monde peut utiliser, modifier et vendre ces créations sans l’autorisation de son auteur.
+The ** public domain ** includes all creations to which no exclusive intellectual property rights apply. These rights may be expired, confiscated, expressly waived or inapplicable. Copyright is generally valid until 50 to 100 years after the author's death. In simple terms, anyone can use, modify and sell these creations without permission from the author.
 
-Par exemple, les compositions de Beethoven sont entré dans le domaine public 70 ans après sa mort en 1827. Ses compositions musicales sont disponibles pour être utilisées et vendues par tous.
+For example, Beethoven's compositions entered the public domain 70 years after his death in 1827. His musical compositions are available for use and sale by all.
 
-Sous **copyleft**, tout le monde peut modifier et distribuer le travail. Cela ne nécessite qu'une condition: la même liberté doit être préservée dans les versions modifiées de l'œuvre originale. Les gens peuvent utiliser, modifier et distribuer le travail comme ils le souhaitent. Toutefois, le copyleft oblige le travail modifié à être distribué sur la base de la même licence. Cependant, il n'est pas nécessaire que le contenu copylefté soit rendu gratuit comme le travail dans le domaine public.
+Under ** copyleft **, everyone can edit and distribute the work. This only requires one condition: the same freedom must be preserved in modified versions of the original work. People can use, modify and distribute the work as they wish. However, copyleft requires modified work to be distributed on the basis of the same license. However, it is not necessary that the copylefted content be made free as the work in the public domain.
 
-La licence publique générale GNU, écrite à l'origine par Richard Stallman, était la première licence copyleft.
-
-
-## Quel type de licence choisir ou utiliser ?
-
-Un logiciel libre a toujours une licence (contrat) d’utilisation associée, il est nécessaire d'analyser les conditions d’utilisation, les droits et les obligations en résultant.
-
-Pour faciliter la compréhension des différents types de licence, nous pouvons les classifier selon le degré de liberté qu'elles accordent à l’utilisateur :
-
-- « Copyleft fort »
-- « Copyleft faible »
-- « Permissive »
+The GNU General Public License, originally written by Richard Stallman, was the first copyleft license.
 
 
-### Copyleft fort
+## What type of license to choose or use?
 
-Une licence avec un copyleft fort a **un caractère fortement contaminant**, lorsque le composant X d’un logiciel, est sous une licence très fortement copyleftée, cette même licence  s’impose à l’ensemble du logiciel qui contient ce composant lors de sa diffusion. On parle alors de licence « contaminante » ou « virale ». Elle oblige à distribuer le logiciel libre modifié sous la même licence, à rendre disponible le code source associé et à distribuer l’ensemble du programme (libre et propriétaire) sous la même licence.
+A free software always has a license (contract) of use associated, it is necessary to analyze the conditions of use, the rights and the obligations resulting from it.
 
-**Quelques licences à copyleft fort:**
+To facilitate the understanding of the different types of licenses, we can classify them according to the degree of freedom they grant to the user:
+
+- "Strong Copyleft"
+- "Low Copyleft"
+- "Permissive"
+
+
+### Strong Copyleft
+
+A license with a strong copyleft has ** a highly contaminating character **, when the X component of a software, is under a license very copyleftée, this same license is imposed on all the software which contains this component when of its diffusion. This is known as a "contaminating" or "viral" license. It obliges to distribute the modified free software under the same license, to make available the associated source code and to distribute the entire program (free and proprietary) under the same license.
+
+** Some strong copyleft licenses: **
 - GPL: General Public License V3
 - AGPL: Affero General Public License
-- CC: Creative Commons déclinée en 6 licences, dont certaines permissives
+- CC: Creative Commons declined in 6 licenses, some permissive
 
-Dans le cas de la licence GPL,il existe quelques cas explicites d’utilisation qui ne déclenchent pas le phénomène de contamination. Soit par des clauses d'exception inscrites dans la licence. Par exemple le [GCC Runtime](https://gcc.gnu.org/onlinedocs/libstdc++/manual/license.html). Soit dans le cas de binaires indépendants, c'est à dire que votre logiciel utilise un programme ayant la license GPL, mais ne le distribue pas. **(METTRE UN EXEMPLE)**
+In the case of the GPL license, there are some explicit cases of use that do not trigger the phenomenon of contamination. Or by exception clauses included in the license. For example, the [GCC Runtime] (https://gcc.gnu.org/onlinedocs/libstdc++/manual/license.html). Either in the case of independent binaries, ie your software uses a program with the GPL license, but does not distribute it. ** (PLACE AN EXAMPLE) **
 
-Les threads Stack Overflow sont également sous licence. Lorsque vous copiez-collez un bout de code depuis le forum, il est important de savoir que tous les snippets de code postés sont sous la licence Creative Commons CC. 😱
+Stack Overflow threads are also licensed. When you copy and paste a piece of code from the forum, it is important to know that all code snippets posted are under the CC Creative Commons license. 😱
 
 
-### Copyleft faible
+### Low Copyleft
 
-Une licence avec un copyleft faible **un caractère faiblement contaminant**, elle oblige à distribuer le logiciel libre modifié sous la même licence et à rendre disponible le code source associé.
+A license with a low copyleft ** a weakly contaminating character **, it forces to distribute the modified free software under the same license and to make available the associated source code.
 
-**Quelques licences à copyleft faible:**
+** Some low copyleft licenses: **
 - LGPL: Lesser GPL
 - EPL: Eclipse Public License
 - MPL: Mozilla Public License
@@ -93,18 +89,17 @@ Une licence avec un copyleft faible **un caractère faiblement contaminant**, el
 
 ### Permissive
 
-Les licences permissives offrent **la plus grande liberté avec un partage sans condition**. En général, seule la citation des auteurs originaux est demandée et permettent à tout acteur de changer la licence sous laquelle le logiciel est distribué et sans obligation de diffusion.
+Permissive licenses offer the greatest freedom with unconditional sharing. In general, only the citation of the original authors is requested and allow any actor to change the license under which the software is distributed and without obligation of diffusion.
 
-**Quelques licences permissives:**
-- BSD : Berkeley Software Distribution
-- MIT : Massachussetts Institute of Technology
+** Some permissive licenses: **
+- BSD: Berkeley Software Distribution
+- MIT: Massachussetts Institute of Technology
 - Apache
 
-Il existe également des licences permissives plus esotériques. Comme la Postcard licence, dont la seule obligation est d'envoyer une carte postale à l’auteur. Ou encore la [WTFPL](http://www.wtfpl.net/) (Do What the Fuck You Want to Public License), dont le titre dit tout. 🙂
+There are also more esoteric permissive licenses. Like the Postcard license, whose only obligation is to send a postcard to the author. Or the [WTFPL] (http://www.wtfpl.net/) (Do What the Fuck You Want to Public License), whose title says it all. 🙂
 
 
 ## Conclusion
 
-En tant que développeur, si vous utilisez des librairies ou logiciel, n'oubliez pas de vérifier leur licence car elle peuvent impacter celle de votre logiciel. En tant que mainteneur de projets open source, choisissez correctement votre licence, que ce soit pour protéger votre œuvre ou son utilisation. Le site web [« Choose a license »]( https://choosealicense.com/) vous permet de bien choisir sa licence en fonction de vos usages.
-
+As a developer, if you use libraries or software, do not forget to check their license because it can impact your software. As an open source project maintainer, choose your license properly, whether to protect your work or its use. The website ["Choose a license"] (https://choosealicense.com/) allows you to choose your license according to your usage.
 
