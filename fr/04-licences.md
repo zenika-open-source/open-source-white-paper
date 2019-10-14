@@ -105,6 +105,6 @@ Il existe également des licences permissives plus esotériques. Comme la Postca
 
 ## Conclusion
 
-En tant que développeur, si vous utilisez des librairies ou logiciel, n'oubliez pas de vérifier leur licence car elle peuvent impacter celle de votre logiciel. En tant que mainteneur de projets open source, choisissez correctement votre licence, que ce soit pour protéger votre œuvre et protéger son utilisation. Le site web [« Choose a license »]( https://choosealicense.com/) vous permet de bien choisir sa licence en fonction de vos usages.
+En tant que développeur, si vous utilisez des librairies ou logiciel, n'oubliez pas de vérifier leur licence car elle peuvent impacter celle de votre logiciel. En tant que mainteneur de projets open source, choisissez correctement votre licence, que ce soit pour protéger votre œuvre ou son utilisation. Le site web [« Choose a license »]( https://choosealicense.com/) vous permet de bien choisir sa licence en fonction de vos usages.
 
 
