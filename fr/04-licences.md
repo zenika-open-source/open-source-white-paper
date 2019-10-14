@@ -1,7 +1,7 @@
 
 # Chapitre 4: Licences
 
-Que vous soyez un développeur ou bien un mainteneur de projets open source, il est indispensable d'avoir une connaissance des différents types de licences. Quels sont vos droits et devoirs lorsque vous les utilisez. Plusieurs types de licences s’offrent à vous et chacune peut présenter des avantages et des inconvénients qu’il convient de mesurer afin de choisir la meilleure solution. Mais il faut rester vigilant. Il peut y avoir des confusions entre les différentes catégories de logiciels « libres » (OSS, freeware, Domaine public…) et il existe des dizaines de licences libres dont certaines sont virales. Cet article a pour but de vous aider à maitriser les différentes caractéristiques des licences et de choisir la plus adaptée à votre projet.
+Que vous soyez un développeur ou bien un mainteneur de projets open source, il est indispensable d'avoir une connaissance des différents types de licences. Quels sont vos droits et devoirs lorsque vous les utilisez. Plusieurs types de licences s’offrent à vous et chacune peut présenter des avantages et des inconvénients qu’il convient de mesurer avant de choisir. Mais il faut rester vigilant. Il peut y avoir des confusions entre les différentes catégories de logiciels « libres » (OSS, freeware, Domaine public…) et il existe des dizaines de licences libres dont certaines sont virales. Cet article a pour but de vous aider à comprendre les différentes caractéristiques des licences et de choisir la plus adaptée à votre projet.
 
 ## Logiciel libre & Open Source
 
