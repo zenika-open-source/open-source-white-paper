@@ -1,70 +1,67 @@
 # Preparing your project being open sourced
 
-In a [previous article](https://oss.zenika.com/white-paper/getting-started), we helped you submit your first contribution. You now want to launch your own open source project but you don't know what to do before letting everyone view your code ? No worries, in this article we will give you all the pre-requisites you need to launch your project.
+Dans un [article précédent](https://oss.zenika.com/white-paper/getting-started), nous vous avons aidé à soumettre votre première contribution. Vous voulez maintenant lancer votre propre projet open source mais vous ne savez pas quoi faire avant de laisser tout le monde voir votre code? Pas de soucis, dans cet article, nous vous donnerons tous les préalables nécessaires au lancement de votre projet.
 
 ## Pre-requisites
 
-If you want your project to have contributions you need to write a minimum of documentation. There are four files that are essential:
+Si vous souhaitez que votre projet contienne des contributions, vous devez rédiger un minimum de documentation. Quatre fichiers sont essentiels:
 
-- Readme
-- License
-- Contributing guide
-- Code of conduct
+- Lisez-moi
+- Licence
+- Guide de contribution
+- Code de conduite
 
-We will describe each one and provide you guides to help you write them.
-
+Nous allons décrire chacun d'eux et vous fournir des guides pour vous aider à les écrire.
 ## README
 
-The first one is well known and you probably already have one, but let's talk a bit about README.md.
+Le premier est bien connu et vous en avez probablement déjà un, mais parlons un peu de README.md.
 
-Mike McQuaid theorized about [the open source contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) and how to get contributors on your open source projects. You need to provide information for every type of visitors (_users_, _contributors_, _maintainers_) in your readme.
+Mike McQuaid a théorisé sur [l'entonnoir contributeur open source](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) et comment obtenir des contributeurs sur vos projets open source. Vous devez fournir des informations pour chaque type de visiteurs (utilisateurs, contributeurs, mainteneurs) de votre fichier readme.
 
-Your project description and first paragraph of your readme should be a simple summary of your project which hits all the important keywords that people search for. -- [Andrey Petrov](https://medium.com/code-zen/how-to-maintain-a-successful-open-source-project-aaa2a5437d3a)
+La description de votre projet et le premier paragraphe de votre fichier Lisez-moi doivent constituer un résumé simple de votre projet, qui concerne tous les mots-clés importants recherchés par les internautes. - [Andrey Petrov](https://medium.com/code-zen/how-to-maintain-a-successful-open-source-project-aaa2a5437d3a)
 
-First of all, nobody is in your head. You should explain the goal of your project. It doesn't have to be an essay, a single sentence is good enough like in [Conference Hall’s readme](https://github.com/bpetetot/conference-hall).
+Tout d’abord, personne n’est dans votre tête. Vous devriez expliquer le but de votre projet. Il n’est pas nécessaire que ce soit un essai, une seule phrase suffit, comme dans le [readme de la salle de conférence](https://github.com/bpetetot/conference-hall).
 
-Conference Hall is an opened SaaS platform to manage call for papers and speakers submissions for your conferences and meetups. Speaker writes a talk once and can submit it to every events of the platform.
+Conference Hall est une plate-forme SaaS ouverte pour gérer les appels à communication et les soumissions de conférenciers pour vos conférences et réunions. Le Président écrit une conférence une fois et peut la soumettre à tous les événements de la plate-forme.
 
-This section is the first thing a newcomer will read on your project, you need to catch their attention.
+Cette section est la première chose qu'un nouveau venu lira sur votre projet. Vous devez attirer leur attention.
 
-Another important part to document in your readme is how to install and use your project. It is essential for _users_ to be able to easily test it. Gatsby does a good job explaining how to have a website [running in 5 minutes](https://github.com/gatsbyjs/gatsby#-get-up-and-running-in-5-minutes) with their cli.
+Une autre partie importante à documenter dans votre fichier Lisez-moi concerne l’installation et l’utilisation de votre projet. Il est essentiel pour les utilisateurs de pouvoir le tester facilement. Gatsby fait du bon travail en expliquant comment créer un site Web [fonctionner en 5 minutes](https://github.com/gatsbyjs/gatsby#-get-up-and-running-in-5-minutes) with their cli.
 
-Last but not least, you should provide instructions for future contributors. A section that links to your contributing guide is enough most of the time.
+Dernier point mais non le moindre, vous devez fournir des instructions aux futurs contributeurs. Une section qui renvoie à votre guide de contribution suffit la plupart du temps.
 
-A [template](https://www.makeareadme.com/#template-1) is available on makeareadme.com. It contains all the sections we talked about. You can find more information about how to write a good readme on this website. You can also use tools to generate your readme like [readme-md-generator](https://github.com/kefranabg/readme-md-generator). It fills it with information extracted from git configuration or your `package.json` file if your project is made with JavaScript. You can find [readme generators](https://github.com/search?utf8=%E2%9C%93&q=generate+readme&type=Repositories) for various languages on GitHub.
+[Un modèle](https://www.makeareadme.com/#template-1)est disponible sur makeareadme.com. Il contient tous les articles dont nous avons parlé. Vous pouvez trouver plus d'informations sur la façon d'écrire un bon fichier readme sur ce site. Vous pouvez également utiliser des outils pour générer votre fichier Lisez-moi comme [readme-md-generator](https://github.com/kefranabg/readme-md-generator). Il le remplit avec les informations extraites de la configuration de git ou de votre fichier `package.json` si votre projet est réalisé avec JavaScript. Vous pouvez trouver [générateurs de readme](https://github.com/search?utf8=%E2%9C%93&q=generate+readme&type=Repositories)pour différentes langues sur GitHub.
 
 ## License
 
-The LICENSE file is what makes open source possible. It protects both _users_ and _contributors_ by giving them rights to use, copy, modify and contribute to your project. This file is mandatory, you should consider not contributing to projects that don't provide a license.
+Le fichier LICENSE est ce qui rend l’open source possible. Il protège à la fois les utilisateurs et les contributeurs en leur donnant les droits d'utilisation, de copie, de modification et de contribution à votre projet. Ce fichier est obligatoire, vous devriez envisager de ne pas contribuer à des projets qui ne fournissent pas de licence.
 
-[OSI](https://opensource.org/) is an organism that has been promoting open source software and communities for over 20 years. They have a process to review licenses. The OSI-approved licenses are the most popular ones like [MIT](https://opensource.org/licenses/MIT) or [Apache 2.0](https://opensource.org/licenses/Apache-2.0). You can find a [good comparison](https://choosealicense.com/licenses/) between licenses on [choosealicense.com](https://choosealicense.com/).
+[OSI](https://opensource.org/) est un organisme qui fait la promotion des logiciels open source et des communautés depuis plus de 20 ans. Ils ont un processus pour examiner les licences. Les licences approuvées par l'OSI sont les plus populaires comme [MIT](https://opensource.org/licenses/MIT) ou [Apache 2.0](https://opensource.org/licenses/Apache-2.0). Vous pouvez trouver une [bonne comparaison](https://choosealicense.com/licenses/) entre les licences sur [choosealicense.com](https://choosealicense.com/).
 
 ## Contributing guide
 
-A CONTRIBUTING.md file, in your open source repository or site, provides potential project contributors with a short guide to how they can help with your project or study group. It is convention to capitalize the word "contributing" as the file title, and to save it as a resource in markdown (hence the extension .md). -- [Mozilla Science Lab](https://mozillascience.github.io/working-open-workshop/contributing/)
+Un fichier CONTRIBUTING.md, situé dans votre référentiel ou site open source, fournit aux contributeurs potentiels à un projet un guide expliquant comment ils peuvent vous aider dans votre projet ou votre groupe d'étude. Il est de règle de mettre le mot "contribuer" en majuscule en tant que titre du fichier et de l'enregistrer en tant que ressource dans markdown (d'où l'extension .md). - [laboratoire scientifique Mozilla](https://mozillascience.github.io/working-open-workshop/contributing/)
 
-Earlier we talked about "The open source contributor funnel" in our readme, we provided documentation to help _users_ installing and using your project, we will now focus on _contributors_. The contributing guide is designed to give instructions to everybody that wants to participate to your project.
+Plus tôt, nous avions parlé de "l'entonnoir des contributeurs open source" dans notre fichier Lisez-moi, nous avons fourni de la documentation pour aider les utilisateurs à installer et à utiliser votre projet. Nous allons maintenant nous concentrer sur les "contributeurs". Le guide de contribution est conçu pour donner des instructions à tous ceux qui souhaitent participer à votre projet.
 
-Most of the time contributions are made by users because they encounter an issue using your project. It's nice to have instructions on how to report a bug or suggest a new feature.
+La plupart des contributions sont faites par les utilisateurs car ils rencontrent un problème lors de l'utilisation de votre projet. C'est bien d'avoir des instructions sur la façon de signaler un bogue ou de suggérer une nouvelle fonctionnalité.
 
-If you want code contributors you need to provide all the details on how to set up the project's development environment and how to submit a contribution. [Mocha's contributing guide](https://github.com/mochajs/mocha/blob/master/.github/CONTRIBUTING.md#shoe-contributing-code-step-by-step) is a good example of step by step instructions to get your contribution merged.
+Si vous voulez des contributeurs de code, vous devez fournir tous les détails sur la configuration de l'environnement de développement du projet et sur la manière de soumettre une contribution. [Guide de contribution de Mocha](https://github.com/mochajs/mocha/blob/master/.github/CONTRIBUTING.md#shoe-contributing-code-step-by-step) est un bon exemple d'instructions étape par étape pour obtenir votre contribution fusionnée.
+Le guide de contribution est également le bon endroit pour décrire les styles de codage. Vous pouvez appliquer les bonnes pratiques telles que les tests ou les conventions comme dans le [guide de contribution d'Immutadot](https://github.com/zenika-open-source/immutadot/blob/master/.github/CONTRIBUTING.md#tests-and-code-style-policeman).
 
-The contributing guide is also the right place to describe coding styles. You can enforce good practices such as testing or conventions like in the [Immutadot's contributing guide](https://github.com/zenika-open-source/immutadot/blob/master/.github/CONTRIBUTING.md#tests-and-code-style-policeman).
-
-If your project is on GitHub, this file will be [automatically linked](https://help.github.com/en/articles/setting-guidelines-for-repository-contributors) when a contributor opens an issue or creates a pull request.
+Si votre projet est sur GitHub, ce fichier sera [lié automatiquement](https://help.github.com/en/articles/setting-guidelines-for-repository-contributors) lorsqu'un contributeur ouvre un problème ou crée une demande de tirage.
 
 ## Code of conduct
 
-Having a CODE_OF_CONDUCT.md in your public repository lets potential _contributors_ know in advance how they can expect to be treated by the community and _maintainers_. -- [Michael Jolley](https://dev.to/michaeljolley/using-a-contributing-codeofconduct-to-assist-others-in-contributing-to-public-repositories-1l90)
+Le fait d'avoir un CODE_OF_CONDUCT.md dans votre référentiel public permet aux potentiels contributeurs de savoir à l'avance comment ils peuvent s'attendre à être traités par la communauté et les mainteneurs. - [Michael Jolley](https://dev.to/michaeljolley/using-a-contributing-codeofconduct-to-assist-others-in-contributing-to-public-repositories-1l90)
 
-The code of conduct of your project is a document that protects every participant. It helps creating a welcoming community.
+Le code de conduite de votre projet est un document qui protège chaque participant. Cela aide à créer une communauté accueillante.
 
-A good addition to your code of conduct is an explanation about how you plan to enforce it. It's important to show that you take it seriously so everybody knows what action will be taken in case of a code of conduct violation.
+Un bon ajout à votre code de conduite est une explication de la manière dont vous envisagez de le faire respecter. Il est important de montrer que vous prenez cela au sérieux afin que tout le monde sache quelles mesures seront prises en cas de violation du code de conduite.
 
-You should also clarify the way to report a violation, such as through an email.
+Vous devez également préciser la manière de signaler une violation, par exemple par courrier électronique.
+Le code de conduite le plus connu est [contributeur](https://www.contributor-covenant.org/). Il est utilisé par des milliers de projets open source. Si votre projet est sur GitHub, vous pouvez directement ajouter le covenant du contributeur ou le [code de conduite du citoyen].(http://citizencodeofconduct.org/) via votre interface de référentiel. Vous devez aller dans «Insights> Communauté> Code de conduite», puis en cliquant sur le bouton Ajouter et en choisissant un code de conduite, un commit sera créé pour vous.
 
-The most famous code of conduct is [Contributor Covenant](https://www.contributor-covenant.org/). It is used by thousands of open source projects. If your project is on GitHub you can directly add Contributor Covenant or [Citizen Code of Conduct](http://citizencodeofconduct.org/) through your repository interface. You need to go to `Insights > Community > Code of conduct`, then by clicking on the Add button and choosing a code of conduct, it will create a commit for you.
+Votre projet est maintenant prêt à être open source. Vous pouvez commencer à en faire la promotion et à recevoir vos premières contributions!
 
-Your project is now ready to be open sourced. You can start promoting it and getting your first contributions!
-
-If you want further news about our projects or future articles consider following our twitter [@ZenikaOSS](https://twitter.com/ZenikaOSS)!
+Si vous souhaitez plus d'informations sur nos projets ou de futurs articles, suivez notre twitter [@ZenikaOSS](https://twitter.com/ZenikaOSS)!
