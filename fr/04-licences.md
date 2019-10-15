@@ -49,7 +49,7 @@ Le **copyright** (ou droit d'auteur) est un droit accordé à l'auteur de l'œuv
 
 Le **domaine public** comprend toutes les créations auxquelles ne s'applique aucun droit de propriété intellectuelle exclusif. Ces droits peuvent être expirés, avoir été confisqués, expressément renoncés ou être inapplicables. Les droits d’auteur sont généralement valables jusqu’à 50 à 100 ans après le décès de l’auteur. En termes simples, tout le monde peut utiliser, modifier et vendre ces créations sans l’autorisation de son auteur.
 
-Par exemple, les compositions de Beethoven sont entré dans le domaine public 70 ans après sa mort en 1827. Ses compositions musicales sont disponibles pour être utilisées et vendues par tous.
+Par exemple, les compositions de Beethoven sont entrées dans le domaine public 70 ans après sa mort en 1827. Ses compositions musicales sont disponibles pour être utilisées et vendues par tous.
 
 Sous **copyleft**, tout le monde peut modifier et distribuer le travail. Cela ne nécessite qu'une condition: la même liberté doit être préservée dans les versions modifiées de l'œuvre originale. Les gens peuvent utiliser, modifier et distribuer le travail comme ils le souhaitent. Toutefois, le copyleft oblige le travail modifié à être distribué sur la base de la même licence. Cependant, il n'est pas nécessaire que le contenu copylefté soit rendu gratuit comme le travail dans le domaine public.
 

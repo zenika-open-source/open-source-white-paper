@@ -21,9 +21,9 @@ Un autre bon moyen d'identifier un projet sur lequel participer est de **sélect
 
 * [First contributions](https://firstcontributions.github.io/) est un peu différent, c'est un workshop pour réaliser sa première contribution en moins de cinq minutes. Elle présente la base du workflow git pour faire des contributions sur GitHub. En plus de ce tutoriel, le site propose des liens vers les *« Good First Issues »* de gros projets GitHub.
 
-* Les soirées ou événements communautaires comme le [HacktoberFest](https://hacktoberfest.digitalocean.com/) représentent également un bon moyen de démarrer sur des projets à la recherche de contributeur. Par exemple, le [hack.commit.push](https://hack-commit-pu.sh/) propose une journée de développement open source, ouverte à tous, quelque soit votre niveau. En début de journée, des ateliers d'introduction sont présentés pour ensuite enchaîner sur des contributions open source accompagnées de mentor.
+* Les soirées ou événements communautaires comme le [HacktoberFest](https://hacktoberfest.digitalocean.com/) représentent également un bon moyen de démarrer sur des projets à la recherche de contributeur. Par exemple, le [hack.commit.push](https://hack-commit-pu.sh/) propose une journée de développement open source, ouverte à tous, quel que soit votre niveau. En début de journée, des ateliers d'introduction sont présentés pour ensuite enchaîner sur des contributions open source accompagnés de mentor.
 
-Un fois que tu as trouvé le ou les projets de tes rêves, il te faudra commencer par te documenter sur ces projets, par exemple en lisant le README, le code de conduite et le guide de contribution. Ce n'est pas très long, mais nécessaire avant de démarrer une contribution. Ils te donneront les codes, les règles et les procédures à respecter pour la consistance et maintenance du projet.
+Une fois que tu as trouvé le ou les projets de tes rêves, il te faudra commencer par te documenter sur ces projets, par exemple en lisant le README, le code de conduite et le guide de contribution. Ce n'est pas très long, mais nécessaire avant de démarrer une contribution. Ils te donneront les codes, les règles et les procédures à respecter pour la consistance et maintenance du projet.
 
 ## Le code de conduite (code of conduct)
 
@@ -31,7 +31,7 @@ Un fois que tu as trouvé le ou les projets de tes rêves, il te faudra commence
 
 Les points essentiels de ce code définissent les règles à suivre entre les participants. Savoir respecter les différents points de vue, écouter et accepter les feedbacks sur ses contributions. Il faut s'attendre à de potentiels désaccords. Il ne faut pas les prendre personnellement. Parfois, lors des revues, il est possible que l'on ne soit pas du même avis sur certaines décisions ou approches adoptées. Il est alors très important de rester professionnel et respecter le code de conduite. Tout feedback est bon à prendre et c'est lors de ce type de discussion que l'on apprend le plus.
 
-**Il est également très important d’être patient.** De nombreux projets open source sont maintenus sur le temps personnel. Il peut donc se passer un certain temps avant que sa contribution ne soit relue ou acceptée.
+**Il est également très important d’être patient.** De nombreux projets open source sont maintenus sur le temps personnel. Il peut donc se passer un certain temps avant que sa contribution ne soit relue ou accepté.
 
 Voici un exemple de code de conduite utilisé par de nombreux projets : [*Contributor convenant*](https://www.contributor-covenant.org/). Les règles qu'il définit devraient être appliquées autant dans les projets open source que dans le milieu professionnel.
 
@@ -55,8 +55,7 @@ Un projet ne se limite pas à la documentation et au code source. Il est égalem
 * Les contributeurs, qui participent à la vie du projet en proposant des contributions (documentation, correction de bug...) mais également en répondant à des questions ou des tickets des utilisateurs.
 * Et les utilisateurs, qui vont bien sûr utiliser le projet mais surtout donner des feedbacks, poster des bugs, proposer des améliorations ou poser des questions sur des forums.
 
-Les moyens de communication de la communauté varient en fonction des projets. Il peut s'agir d'une mailing list, d'un Slack, d'un Discord ou tout autre outil du même type. Elle permet de poser des questions, d'aider à définir les roadmaps, ou tout simplement de discuter entre passionnés.
-
+Les moyens de communication de la communauté varient en fonction des projets. Il peut s'agir d'une mailing list, d'un Slack, d'un Discord ou tout autre outil du même type. Ces derniers permettent de poser des questions, d'aider à définir les roadmaps, ou tout simplement de discuter entre passionnés.
 
 ## Première contribution 🐥
 
@@ -79,7 +78,7 @@ Toutes les contributions sont bonnes et servent au projet. Voici une liste non e
 
 * Soumettre des bugs ou nouvelles fonctionnalités ;
 * répondre aux issues, les classer et les fermer si nécessaire ;
-* répondre aux questions (p. ex. sur GitHub, Stack Overflow…).
+* répondre aux questions (par ex. sur GitHub, Stack Overflow…).
 
 ### Communication
 
