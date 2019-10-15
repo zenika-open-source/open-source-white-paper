@@ -19,7 +19,7 @@ Les œuvres sous licence libre ne sont pas toujours disponibles gratuitement et 
 > « Think Free as Free speech and not Free beer »
 > – R. Stallman
 
-Tandis que l'[Open Source Initiative (OSI)](http://opensource.org/), société américaine à but non lucratif fondée en 1998 par E. Raymond & B. Perens promeut le code Open Source.
+L'[Open Source Initiative (OSI)](http://opensource.org/), société américaine à but non lucratif fondée en 1998 par E. Raymond & B. Perens promeut quant à elle le code Open Source.
 
 Selon l’OSI, pour qu’un logiciel soit Open Source, sa licence doit respecter les 10 critères suivants:
 
@@ -39,7 +39,6 @@ Selon l’OSI, pour qu’un logiciel soit Open Source, sa licence doit respecter
 > – R. Stallman
 
 https://twitter.com/OpenSourceOrg/status/1174073039534706688?s=20
-
 
 ## Copyright, copyleft et domaine public
 
