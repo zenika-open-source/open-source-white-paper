@@ -3,7 +3,6 @@
 Le monde de l'open source est vaste, il est très facile de s'y perdre. Quand on est nouveau dans l'open source, ce monde peut paraître peu accessible et intimidant. Par où commencer ? Y a-t-il des règles et des codes à suivre ? Comment contribuer même si je ne code pas ?
 Pas d'inquiétude, dans cet article nous allons te donner tous les codes nécessaires pour bien démarrer, choisir le bon projet et proposer sa première contribution.
 
-
 ## Premiers pas 🐣
 
 Tout d'abord, il faut déterminer sur quel projet tu souhaites démarrer ta première contribution. Comme il existe des millions de projets open source, il peut être difficile de trouver son chemin.
@@ -26,7 +25,7 @@ Un autre bon moyen d'identifier un projet sur lequel participer est de **sélect
 
 Un fois que tu as trouvé le ou les projets de tes rêves, il te faudra commencer par te documenter sur ces projets, par exemple en lisant le README, le code de conduite et le guide de contribution. Ce n'est pas très long, mais nécessaire avant de démarrer une contribution. Ils te donneront les codes, les règles et les procédures à respecter pour la consistance et maintenance du projet.
 
-**Le code de conduite (code of conduct)**
+## Le code de conduite (code of conduct)
 
 **La plupart des projets open source écrivent un code de conduite.** Il permet de définir des règles et des comportements à adopter ou non sur le projet.
 
@@ -36,9 +35,10 @@ Les points essentiels de ce code définissent les règles à suivre entre les pa
 
 Voici un exemple de code de conduite utilisé par de nombreux projets : [*Contributor convenant*](https://www.contributor-covenant.org/). Les règles qu'il définit devraient être appliquées autant dans les projets open source que dans le milieu professionnel.
 
-**Le guide de contribution**
+## Le guide de contribution
 
 Il permet de définir les workflows et les manières de coder sur le projet afin de comprendre les normes et les attentes de la communauté. Par exemple :
+
 * Comment mettre en place mon environnement de développement ?
 * Comment poster une issue ?
 * Quelles sont les normes de commit ?
@@ -47,9 +47,10 @@ Il permet de définir les workflows et les manières de coder sur le projet afin
 
 Si une contribution ne suit pas ces bonnes pratiques, il se peut qu'elle soit rejetée avant même d'avoir été revue. Ces normes servent à garder une cohérence dans le projet mais également à faire gagner du temps aux mainteneurs du projet. Donc à lire avec attention.
 
-**Rejoindre la communauté**
+## Rejoindre la communauté
 
 Un projet ne se limite pas à la documentation et au code source. Il est également important de comprendre et d’interagir avec la communauté du projet. Il y a différents rôles dans un projet open source, les trois principaux étant :
+
 * Les mainteneurs ou core contributors, qui sont à l’origine du projet ou ont intégré ce rôle suite à l’ensemble des contributions qu’ils ont réalisées.
 * Les contributeurs, qui participent à la vie du projet en proposant des contributions (documentation, correction de bug...) mais également en répondant à des questions ou des tickets des utilisateurs.
 * Et les utilisateurs, qui vont bien sûr utiliser le projet mais surtout donner des feedbacks, poster des bugs, proposer des améliorations ou poser des questions sur des forums.
@@ -62,24 +63,25 @@ Les moyens de communication de la communauté varient en fonction des projets. I
 Maintenant que tu as identifié un projet qui t'intéresse et que tu as lu la documentation nécessaire pour bien démarrer, tu es prêt à proposer ta première contribution.
 
 Avant tout, sache que tu n'as pas besoin de savoir coder pour contribuer sur des projets open source :
+
 * Tu aimes écrire ? Corrige ou développe la documentation du projet.
 * Tu maîtrises le design ? Crée le logo ou le site du projet.
 * Tu aimes communiquer ? Réponds aux questions de la communauté.
 
 Toutes les contributions sont bonnes et servent au projet. Voici une liste non exhaustive des tâches que tu peux réaliser pour aider les projets open source :
 
-**Documentation**
+### Documentation
 
 * Écrire et corriger la documentation du projet ;
 * traduire la documentation.
 
-**Organisation**
+### Organisation
 
 * Soumettre des bugs ou nouvelles fonctionnalités ;
 * répondre aux issues, les classer et les fermer si nécessaire ;
 * répondre aux questions (p. ex. sur GitHub, Stack Overflow…).
 
-**Communication**
+### Communication
 
 * Écrire des articles ou tutoriels ;
 * organiser des meetups ou conférences sur le projet ;
@@ -87,7 +89,7 @@ Toutes les contributions sont bonnes et servent au projet. Voici une liste non e
 * réaliser un design pour le projet (logo, couleurs…) ;
 * développer un site pour le projet.
 
-**Coder**
+### Coder
 
 * Réaliser des revues de codes ;
 * développer les tests ;

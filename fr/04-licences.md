@@ -55,8 +55,7 @@ Sous **copyleft**, tout le monde peut modifier et distribuer le travail. Cela ne
 
 La licence publique générale GNU, écrite à l'origine par Richard Stallman, était la première licence copyleft.
 
-
-## Quel type de licence choisir ou utiliser ?
+## Quel type de licence choisir ou utiliser
 
 Un logiciel libre a toujours une licence (contrat) d’utilisation associée, il est nécessaire d'analyser les conditions d’utilisation, les droits et les obligations en résultant.
 
@@ -66,12 +65,12 @@ Pour faciliter la compréhension des différents types de licence, nous pouvons 
 - « Copyleft faible »
 - « Permissive »
 
-
 ### Copyleft fort
 
 Une licence avec un copyleft fort a **un caractère fortement contaminant**, lorsque le composant X d’un logiciel, est sous une licence très fortement copyleftée, cette même licence  s’impose à l’ensemble du logiciel qui contient ce composant lors de sa diffusion. On parle alors de licence « contaminante » ou « virale ». Elle oblige à distribuer le logiciel libre modifié sous la même licence, à rendre disponible le code source associé et à distribuer l’ensemble du programme (libre et propriétaire) sous la même licence.
 
 **Quelques licences à copyleft fort:**
+
 - GPL: General Public License V3
 - AGPL: Affero General Public License
 - CC: Creative Commons déclinée en 6 licences, dont certaines permissives
@@ -80,31 +79,28 @@ Dans le cas de la licence GPL,il existe quelques cas explicites d’utilisation 
 
 Les threads Stack Overflow sont également sous licence. Lorsque vous copiez-collez un bout de code depuis le forum, il est important de savoir que tous les snippets de code postés sont sous la licence Creative Commons CC. 😱
 
-
 ### Copyleft faible
 
 Une licence avec un copyleft faible a **un caractère faiblement contaminant**, elle oblige à distribuer le logiciel libre modifié sous la même licence et à rendre disponible le code source associé.
 
 **Quelques licences à copyleft faible:**
+
 - LGPL: Lesser GPL
 - EPL: Eclipse Public License
 - MPL: Mozilla Public License
-
 
 ### Permissive
 
 Les licences permissives offrent **la plus grande liberté avec un partage sans condition**. En général, seule la citation des auteurs originaux est demandée et elles permettent à tout acteur de changer la licence sous laquelle le logiciel est distribué, sans obligation de diffusion.
 
 **Quelques licences permissives:**
+
 - BSD : Berkeley Software Distribution
 - MIT : Massachussetts Institute of Technology
 - Apache
 
 Il existe également des licences permissives plus esotériques. Comme la Postcard licence, dont la seule obligation est d'envoyer une carte postale à l’auteur. Ou encore la [WTFPL](http://www.wtfpl.net/) (Do What the Fuck You Want to Public License), dont le titre dit tout. 🙂
 
-
 ## Conclusion
 
-En tant que développeur, si vous utilisez des librairies ou logiciels tiers, n'oubliez pas de vérifier leur licence car elle peut impacter celle de votre logiciel. En tant que mainteneur de projets Open Source, choisissez correctement votre licence, que ce soit pour protéger votre œuvre ou son utilisation. Le site web [« Choose a license »]( https://choosealicense.com/) vous permet de bien choisir sa licence en fonction de vos usages.
-
-
+En tant que développeur, si vous utilisez des librairies ou logiciels tiers, n'oubliez pas de vérifier leur licence car elle peut impacter celle de votre logiciel. En tant que mainteneur de projets Open Source, choisissez correctement votre licence, que ce soit pour protéger votre œuvre ou son utilisation. Le site web [« Choose a license »]( https://choosealicense.com/) vous permet de bien choisir votre licence en fonction de vos usages.
