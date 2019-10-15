@@ -23,17 +23,16 @@ L'[Open Source Initiative (OSI)](http://opensource.org/), société américaine 
 
 Selon l’OSI, pour qu’un logiciel soit Open Source, sa licence doit respecter les 10 critères suivants:
 
-- Redistribution libre.
-- Fourniture du code source.
-- Permettre les travaux dérivés et modifications.
-- Intégrité du code source de l’auteur.
-- Pas de discrimination entre les personnes ou les groupes.
-- Pas de discrimination entre les domaines d'application.
-- Pas de restriction sur la distribution de la licence (vs NDA).
-- La licence ne doit pas être spécifique à un produit.
-- La licence ne doit pas restreindre d'autres logiciels.
-- La licence doit être technologiquement neutre.
-
+- Redistribution libre
+- Fourniture du code source
+- Permettre les travaux dérivés et modifications
+- Intégrité du code source de l’auteur
+- Pas de discrimination entre les personnes ou les groupes
+- Pas de discrimination entre les domaines d'application
+- Pas de restriction sur la distribution de la licence (vs NDA)
+- La licence ne doit pas être spécifique à un produit
+- La licence ne doit pas restreindre d'autres logiciels
+- La licence doit être technologiquement neutre
 
 > « Les deux termes décrivent pratiquement la même catégorie de logiciel. Mais ils représentent des vues basées sur des valeurs fondamentalement différentes. »
 > – R. Stallman
