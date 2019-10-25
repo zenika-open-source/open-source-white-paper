@@ -100,7 +100,7 @@ Les licences permissives offrent **la plus grande liberté avec un partage sans 
 - MIT : Massachussetts Institute of Technology
 - Apache
 
-Il existe également des licences permissives plus esotériques. Comme la Postcard licence, dont la seule obligation est d'envoyer une carte postale à l’auteur. Ou encore la [WTFPL](http://www.wtfpl.net/) (Do What the Fuck You Want to Public License), dont le titre dit tout. 🙂
+Il existe également des licences permissives plus ésotériques. Comme la Postcard licence, dont la seule obligation est d'envoyer une carte postale à l’auteur. Ou encore la [WTFPL](http://www.wtfpl.net/) (Do What the Fuck You Want to Public License), dont le titre dit tout. 🙂
 
 
 ## Conclusion
