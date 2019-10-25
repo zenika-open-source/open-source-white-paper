@@ -49,7 +49,7 @@ Le **copyright** (ou droit d'auteur) est un droit accordé à l'auteur de l'œuv
 
 Le **domaine public** comprend toutes les créations auxquelles ne s'applique aucun droit de propriété intellectuelle exclusif. Ces droits peuvent être expirés, avoir été confisqués, expressément renoncés ou être inapplicables. Les droits d’auteur sont généralement valables jusqu’à 50 à 100 ans après le décès de l’auteur. En termes simples, tout le monde peut utiliser, modifier et vendre ces créations sans l’autorisation de son auteur.
 
-Par exemple, les compositions de Beethoven sont entré dans le domaine public 70 ans après sa mort en 1827. Ses compositions musicales sont disponibles pour être utilisées et vendues par tous.
+Par exemple, les compositions de Beethoven sont entrés dans le domaine public 70 ans après sa mort en 1827. Ses compositions musicales sont disponibles pour être utilisées et vendues par tous.
 
 Sous **copyleft**, tout le monde peut modifier et distribuer le travail. Cela ne nécessite qu'une condition: la même liberté doit être préservée dans les versions modifiées de l'œuvre originale. Les gens peuvent utiliser, modifier et distribuer le travail comme ils le souhaitent. Toutefois, le copyleft oblige le travail modifié à être distribué sur la base de la même licence. Cependant, il n'est pas nécessaire que le contenu copylefté soit rendu gratuit comme le travail dans le domaine public.
 
@@ -69,14 +69,14 @@ Pour faciliter la compréhension des différents types de licence, nous pouvons 
 
 ### Copyleft fort
 
-Une licence avec un copyleft fort a **un caractère fortement contaminant**, lorsque le composant X d’un logiciel, est sous une licence très fortement copyleftée, cette même licence  s’impose à l’ensemble du logiciel qui contient ce composant lors de sa diffusion. On parle alors de licence « contaminante » ou « virale ». Elle oblige à distribuer le logiciel libre modifié sous la même licence, à rendre disponible le code source associé et à distribuer l’ensemble du programme (libre et propriétaire) sous la même licence.
+Une licence avec un copyleft fort a **un caractère fortement contaminant**, lorsque le composant X d’un logiciel est sous une licence très fortement copyleftée, cette même licence  s’impose à l’ensemble du logiciel qui contient ce composant lors de sa diffusion. On parle alors de licence « contaminante » ou « virale ». Elle oblige à distribuer le logiciel libre modifié sous la même licence, à rendre disponible le code source associé et à distribuer l’ensemble du programme (libre et propriétaire) sous la même licence.
 
 **Quelques licences à copyleft fort:**
 - GPL: General Public License V3
 - AGPL: Affero General Public License
 - CC: Creative Commons déclinée en 6 licences, dont certaines permissives
 
-Dans le cas de la licence GPL,il existe quelques cas explicites d’utilisation qui ne déclenchent pas le phénomène de contamination. Soit par des clauses d'exception inscrites dans la licence. Par exemple le [GCC Runtime](https://gcc.gnu.org/onlinedocs/libstdc++/manual/license.html). Soit dans le cas de binaires indépendants, c'est à dire que votre logiciel utilise un programme ayant la license GPL, mais ne le distribue pas. **(METTRE UN EXEMPLE)**
+Dans le cas de la licence GPL,il existe quelques cas explicites d’utilisation qui ne déclenchent pas le phénomène de contamination. Soit par des clauses d'exception inscrites dans la licence. Par exemple le [GCC Runtime](https://gcc.gnu.org/onlinedocs/libstdc++/manual/license.html). Soit dans le cas de binaires indépendants, c'est-à-dire que votre logiciel utilise un programme ayant la license GPL, mais ne le distribue pas. **(METTRE UN EXEMPLE)**
 
 Les threads Stack Overflow sont également sous licence. Lorsque vous copiez-collez un bout de code depuis le forum, il est important de savoir que tous les snippets de code postés sont sous la licence Creative Commons CC. 😱
 
