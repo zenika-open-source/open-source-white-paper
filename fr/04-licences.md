@@ -9,10 +9,10 @@ La [Free Software Foundation (FSF)](www.fsf.org), société américaine à but n
 
 Cette fondation donne une définition du logiciel libre basée sur quatre libertés irrévocables:
 
-- Liberté d'utiliser le logiciel.
-- Liberté de copier le logiciel (comprend la liberté de vendre des copies).
-- Liberté d'étudier le logiciel (suppose l'accès au code source).
-- Liberté de modifier le logiciel et de redistribuer les versions modifiées.
+- Liberté d'utiliser le logiciel
+- Liberté de copier le logiciel (comprend la liberté de vendre des copies)
+- Liberté d'étudier le logiciel (suppose l'accès au code source)
+- Liberté de modifier le logiciel et de redistribuer les versions modifiées
 
 Les œuvres sous licence libre ne sont pas toujours disponibles gratuitement et les services associés (développement, garanties, support, etc.) sont souvent payants. Une œuvre contaminée par une licence libre, qui pouvait au départ n’être disponible que contre paiement, doit être rediffusée librement.
 
@@ -23,16 +23,16 @@ Tandis que l'[Open Source Initiative (OSI)](http://opensource.org/), société a
 
 Selon l’OSI, pour qu’un logiciel soit Open Source, sa licence doit respecter les 10 critères suivants:
 
-- Redistribution libre.
-- Fourniture du code source.
-- Permettre les travaux dérivés et modifications.
-- Intégrité du code source de l’auteur.
-- Pas de discrimination entre les personnes ou les groupes.
-- Pas de discrimination entre les domaines d'application.
-- Pas de restriction sur la distribution de la licence (vs NDA).
-- La licence ne doit pas être spécifique à un produit.
-- La licence ne doit pas restreindre d'autres logiciels.
-- La licence doit être technologiquement neutre.
+- Redistribution libre
+- Fourniture du code source
+- Permettre les travaux dérivés et modifications
+- Intégrité du code source de l’auteur
+- Pas de discrimination entre les personnes ou les groupes
+- Pas de discrimination entre les domaines d'application
+- Pas de restriction sur la distribution de la licence (vs NDA)
+- La licence ne doit pas être spécifique à un produit
+- La licence ne doit pas restreindre d'autres logiciels
+- La licence doit être technologiquement neutre
 
 
 > « Les deux termes décrivent pratiquement la même catégorie de logiciel. Mais ils représentent des vues basées sur des valeurs fondamentalement différentes. »
