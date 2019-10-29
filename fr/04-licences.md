@@ -9,10 +9,10 @@ La [Free Software Foundation (FSF)](www.fsf.org), société américaine à but n
 
 Cette fondation donne une définition du logiciel libre basée sur quatre libertés irrévocables:
 
-- Liberté d'utiliser le logiciel.
-- Liberté de copier le logiciel (comprend la liberté de vendre des copies).
-- Liberté d'étudier le logiciel (suppose l'accès au code source).
-- Liberté de modifier le logiciel et de redistribuer les versions modifiées.
+- Liberté d'utiliser le logiciel
+- Liberté de copier le logiciel (comprend la liberté de vendre des copies)
+- Liberté d'étudier le logiciel (suppose l'accès au code source)
+- Liberté de modifier le logiciel et de redistribuer les versions modifiées
 
 Les œuvres sous licence libre ne sont pas toujours disponibles gratuitement et les services associés (développement, garanties, support, etc.) sont souvent payants. Une œuvre contaminée par une licence libre, qui pouvait au départ n’être disponible que contre paiement, doit être rediffusée librement.
 
