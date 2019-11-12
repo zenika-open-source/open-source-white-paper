@@ -1,7 +1,7 @@
-# Chapitre 1: Démarrer dans l'open source 🥚
+# Chapitre 1 : Démarrer dans l'open source 🥚
 
 Le monde de l'open source est vaste, il est très facile de s'y perdre. Quand on est nouveau dans l'open source, ce monde peut paraître peu accessible et intimidant. Par où commencer ? Y a-t-il des règles et des codes à suivre ? Comment contribuer même si je ne code pas ?
-Pas d'inquiétude, dans cet article nous allons te donner tous les codes nécessaires pour bien démarrer, choisir le bon projet et proposer sa première contribution.
+Pas d'inquiétude, dans cet article nous allons te donner tous les codes nécessaires pour bien démarrer, choisir le bon projet et proposer ta première contribution.
 
 ## Premiers pas 🐣
 
@@ -19,19 +19,19 @@ Un autre bon moyen d'identifier un projet sur lequel participer est de **sélect
 
 * [CodeTriage](https://www.codetriage.com/) est un outil permettant de s'abonner à des projets open source et de recevoir de nouvelles demandes de contribution tous les jours.
 
-* [First contributions](https://firstcontributions.github.io/) est un peu différent, c'est un workshop pour réaliser sa première contribution en moins de cinq minutes. Elle présente la base du workflow git pour faire des contributions sur GitHub. En plus de ce tutoriel, le site propose des liens vers les *« Good First Issues »* de gros projets GitHub.
+* [First contributions](https://firstcontributions.github.io/) est un peu différent, c'est un workshop pour réaliser sa première contribution en moins de cinq minutes. Il présente la base du workflow git pour faire des contributions sur GitHub. En plus de ce tutoriel, le site propose des liens vers les *« Good First Issues »* de gros projets GitHub.
 
-* Les soirées ou événements communautaires comme le [HacktoberFest](https://hacktoberfest.digitalocean.com/) représentent également un bon moyen de démarrer sur des projets à la recherche de contributeur. Par exemple, le [hack.commit.push](https://hack-commit-pu.sh/) propose une journée de développement open source, ouverte à tous, quel que soit votre niveau. En début de journée, des ateliers d'introduction sont présentés pour ensuite enchaîner sur des contributions open source accompagnés de mentor.
+* Les soirées ou événements communautaires comme le [HacktoberFest](https://hacktoberfest.digitalocean.com/) représentent également un bon moyen de démarrer sur des projets à la recherche de contributeurs. Par exemple, le [hack.commit.push](https://hack-commit-pu.sh/) propose une journée de développement open source, ouverte à tous, quel que soit votre niveau. En début de journée, des ateliers d'introduction sont présentés pour ensuite enchaîner sur des contributions open source accompagnées de mentor.
 
-Une fois que tu as trouvé le ou les projets de tes rêves, il te faudra commencer par te documenter sur ces projets, par exemple en lisant le README, le code de conduite et le guide de contribution. Ce n'est pas très long, mais nécessaire avant de démarrer une contribution. Ils te donneront les codes, les règles et les procédures à respecter pour la consistance et maintenance du projet.
+Une fois que tu as trouvé le ou les projets de tes rêves, il te faudra commencer par te documenter sur ces projets, par exemple en lisant le README, le code de conduite et le guide de contribution. Ce n'est pas très long, mais nécessaire avant de démarrer une contribution. Ils te donneront les codes, les règles et les procédures à respecter pour la consistance et la maintenance du projet.
 
 ## Le code de conduite (code of conduct)
 
 **La plupart des projets open source écrivent un code de conduite.** Il permet de définir des règles et des comportements à adopter ou non sur le projet.
 
-Les points essentiels de ce code définissent les règles à suivre entre les participants. Savoir respecter les différents points de vue, écouter et accepter les feedbacks sur ses contributions. Il faut s'attendre à de potentiels désaccords. Il ne faut pas les prendre personnellement. Parfois, lors des revues, il est possible que l'on ne soit pas du même avis sur certaines décisions ou approches adoptées. Il est alors très important de rester professionnel et respecter le code de conduite. Tout feedback est bon à prendre et c'est lors de ce type de discussion que l'on apprend le plus.
+Les points essentiels de ce code définissent les règles à suivre entre les participants, comme savoir respecter les différents points de vue, ou encore écouter et accepter les feedbacks sur ses contributions. Néanmoins il faut s'attendre à de potentiels désaccords. Il ne faut pas les prendre personnellement. Parfois, lors des revues, il est possible que l'on ne soit pas du même avis sur certaines décisions ou approches adoptées. Il est alors très important de rester professionnel et respecter le code de conduite. Tout feedback est bon à prendre et c'est lors de ce type de discussion que l'on apprend le plus.
 
-**Il est également très important d’être patient.** De nombreux projets open source sont maintenus sur le temps personnel. Il peut donc se passer un certain temps avant que sa contribution ne soit relue ou accepté.
+**Il est également très important d’être patient.** De nombreux projets open source sont maintenus sur le temps personnel. Il peut donc se passer un certain temps avant que sa contribution ne soit relue ou acceptée.
 
 Voici un exemple de code de conduite utilisé par de nombreux projets : [*Contributor convenant*](https://www.contributor-covenant.org/). Les règles qu'il définit devraient être appliquées autant dans les projets open source que dans le milieu professionnel.
 
@@ -78,19 +78,19 @@ Toutes les contributions sont bonnes et servent au projet. Voici une liste non e
 
 * Soumettre des bugs ou nouvelles fonctionnalités ;
 * répondre aux issues, les classer et les fermer si nécessaire ;
-* répondre aux questions (par ex. sur GitHub, Stack Overflow…).
+* répondre aux questions (par exemple sur GitHub, Stack Overflow…).
 
 ### Communication
 
 * Écrire des articles ou tutoriels ;
 * organiser des meetups ou conférences sur le projet ;
-* communiquer sur twitter (nouvelles releases, contributions…) ;
+* communiquer sur Twitter (nouvelles releases, contributions…) ;
 * réaliser un design pour le projet (logo, couleurs…) ;
 * développer un site pour le projet.
 
 ### Coder
 
-* Réaliser des revues de codes ;
+* Réaliser des revues de code ;
 * développer les tests ;
 * automatiser le projet (CI…) ;
 * corriger des bugs ;
