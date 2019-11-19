@@ -39,15 +39,15 @@ https://twitter.com/OpenSourceOrg/status/1174073039534706688?s=20
 
 ## Copyright, copyleft and public domain
 
-Before presenting the different types of licenses available, it is necessary to understand the different types of rights applied to works. Here is an explanation, in simple terms, of the 3 major areas of enforcement.
+Before presenting the different types of licenses available, it is necessary to understand the different types of rights applied to projects. Here is an explanation, in simple terms, of the 3 major areas of enforcement.
 
-**copyright** (or copyright) is a right granted to the author of the original work, including the right to authorize or prohibit the publication or distribution of their work. They protect authors from copying or unauthorized sale of their works. Copyright is granted for a limited period of time, after which the work enters the public domain.
+**Copyright** is a right granted to the author of the original work, including the right to authorize or prohibit the publication or distribution of their work. It protects authors from copying or unauthorized sale of their works. Copyright is granted for a limited period of time, after which the work enters the public domain.
 
-The **public domain** includes all creations to which no exclusive intellectual property rights apply. These rights may be expired, confiscated, expressly waived or inapplicable. Copyright is generally valid until 50 to 100 years after the author's death. In simple terms, anyone can use, modify and sell these creations without permission from the author.
+The **public domain** includes all creations where no exclusive intellectual property rights apply. These rights may be expired, confiscated, expressly waived or inapplicable. Copyright is generally valid until 50 to 100 years after the author's death. In simple terms, anyone can use, modify and sell these creations without permission from the author.
 
 For example, Beethoven's compositions entered the public domain 70 years after his death in 1827. His musical compositions are available for use and sale by all.
 
-Under **copyleft**, everyone can edit and distribute the work. This only requires one condition: the same freedom must be preserved in modified versions of the original work. People can use, modify and distribute the work as they wish. However, copyleft requires modified work to be distributed on the basis of the same license. However, it is not necessary that the copylefted content be made free as the work in the public domain.
+Under **copyleft**, everyone can edit and distribute the work. It requires only one condition: the same freedom must be preserved in modified versions of the original work. People can use, modify and distribute the work as they wish. However, copyleft requires modified work to be distributed on the basis of the same license. However, it's not necessary that the copylefted content be made free as the work in the public domain.
 
 The GNU General Public License, originally written by Richard Stallman, was the first copyleft license.
 
@@ -65,21 +65,21 @@ To facilitate the understanding of the different types of licenses, we can class
 
 ### Strong Copyleft
 
-A license with a strong copyleft has **a highly contaminating character**, when the X component of a software, is under a license very copyleftée, this same license is imposed on all the software which contains this component when of its diffusion. This is known as a "contaminating" or "viral" license. It obliges to distribute the modified free software under the same license, to make available the associated source code and to distribute the entire program (free and proprietary) under the same license.
+A license with a strong copyleft has **a highly contaminating character**. When a software component, is under a copylefted license, this same license is imposed on all the software which contains this component when of its diffusion. This is known as a "contaminating" or "viral" license. It obliges to distribute the modified free software under the same license, to make available the associated source code and to distribute the entire program (free and proprietary) under the same license.
 
 **Some strong copyleft licenses:**
 - GPL: General Public License V3
 - AGPL: Affero General Public License
 - CC: Creative Commons declined in 6 licenses, some permissive
 
-In the case of the GPL license, there are some explicit cases of use that do not trigger the phenomenon of contamination. Or by exception clauses included in the license. For example, the [GCC Runtime] (https://gcc.gnu.org/onlinedocs/libstdc++/manual/license.html). Either in the case of independent binaries, ie your software uses a program with the GPL license, but does not distribute it. **(PLACE AN EXAMPLE)**
+In the case of the GPL license, there are some explicit cases of use that do not trigger the phenomenon of contamination. Or by exception clauses included in the license. For example, the [GCC Runtime] (https://gcc.gnu.org/onlinedocs/libstdc++/manual/license.html). Either in the case of independent binaries, ie your software uses a program with the GPL license, but does not distribute it.
 
 Stack Overflow threads are also licensed. When you copy and paste a piece of code from the forum, it is important to know that all code snippets posted are under the CC Creative Commons license. 😱
 
 
 ### Low Copyleft
 
-A license with a low copyleft **a weakly contaminating character**, it forces to distribute the modified free software under the same license and to make available the associated source code.
+A license, with a low copyleft **a weakly contaminating character**, forces to distribute the modified free software under the same license and to make available the associated source code.
 
 **Some low copyleft licenses:**
 - LGPL: Lesser GPL
