@@ -67,7 +67,7 @@ Pour faciliter la compréhension des différents types de licence, nous pouvons 
 
 ### Copyleft fort
 
-Une licence avec un copyleft fort a **un caractère fortement contaminant**. Lorsque le composant X d’un logiciel est sous une licence très fortement copyleftée, cette même licence  s’impose à l’ensemble du logiciel qui contient ce composant lors de sa diffusion. On parle alors de licence « contaminante » ou « virale ». Elle oblige à distribuer le logiciel libre modifié sous la même licence, à rendre disponible le code source associé et à distribuer l’ensemble du programme (libre et propriétaire) sous la même licence.
+Une licence avec un copyleft fort a **un caractère fortement contaminant**. Lorsque le composant d’un logiciel est sous une licence très fortement copyleftée, cette même licence  s’impose à l’ensemble du logiciel qui contient ce composant lors de sa diffusion. On parle alors de licence « contaminante » ou « virale ». Elle oblige à distribuer le logiciel libre modifié sous la même licence et à rendre disponible le code source associé.
 
 **Quelques licences à copyleft fort :**
 
@@ -75,7 +75,7 @@ Une licence avec un copyleft fort a **un caractère fortement contaminant**. Lor
 - AGPL: Affero General Public License ;
 - CC: Creative Commons déclinée en 6 licences, dont certaines permissives.
 
-Dans le cas de la licence GPL, il existe quelques cas explicites d’utilisation qui ne déclenchent pas le phénomène de contamination, soit par des clauses d'exception inscrites dans la licence (par exemple le [GCC Runtime](https://gcc.gnu.org/onlinedocs/libstdc++/manual/license.html)), soit dans le cas de binaires indépendants, c'est-à-dire que votre logiciel utilise un programme ayant la license GPL mais ne le distribue pas. **(METTRE UN EXEMPLE)**
+Dans le cas de la licence GPL, il existe quelques cas explicites d’utilisation qui ne déclenchent pas le phénomène de contamination, soit par des clauses d'exception inscrites dans la licence (par exemple le [GCC Runtime](https://gcc.gnu.org/onlinedocs/libstdc++/manual/license.html)), soit dans le cas de binaires indépendants, c'est-à-dire que votre logiciel utilise un programme ayant la license GPL mais ne le distribue pas.
 
 Les threads Stack Overflow sont également sous licence. Lorsque vous copiez-collez un bout de code depuis le forum, il est important de savoir que tous les snippets de code postés sont sous la licence Creative Commons CC. 😱
 

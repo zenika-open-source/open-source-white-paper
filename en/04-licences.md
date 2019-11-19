@@ -1,6 +1,6 @@
 # Chapter 4: Licenses
 
-Whether you are a developer or an open source project maintainer, it is essential to have knowledge of the different types of licenses. What are your rights and duties when you use them? There are several types of licenses available to you and each may have advantages and disadvantages that should be measured before choosing. But we must remain vigilant. There may be confusion between different categories of "free" software (OSS, freeware, public domain ...) and there are dozens of free licenses, some of which are viral. This article is intended to help you understand the different features of licenses and choose the most suitable for your project.
+As a developer or an open source project maintainer, it is essential to have knowledge of the different types of licenses. What are your rights and duties when you use them? There are several types of licenses available to you and each may have advantages and disadvantages that should be measured before choosing. But we must remain vigilant. There may be confusion between different categories of "free" software (OSS, freeware, public domain ...) and there are dozens of free licenses, some of which are viral. This article is intended to help you understand the different features of licenses and choose the most suitable for your project.
 
 ## Free Software & Open Source
 
@@ -13,7 +13,7 @@ This foundation gives a definition of free software based on four irrevocable li
 - Freedom to study the software. (suppose access to the source code)
 - Freedom to modify the software and redistribute the modified versions.
 
-Free license works are not always available for free and associated services (development, warranties, support, etc.) are often paid for. A work contaminated by a free license, which could initially be available only against payment, must be rebroadcast freely.
+Free license works are not always available for free and you will often paid for associated services (development, warranties, support, etc.). A work contaminated by a free license, which could initially be available only against payment, must be rebroadcast freely.
 
 > « Think Free as Free speech and not Free beer » – R. Stallman
 
@@ -65,7 +65,7 @@ To facilitate the understanding of the different types of licenses, we can class
 
 ### Strong Copyleft
 
-A license with a strong copyleft has **a highly contaminating character**. When a software component, is under a copylefted license, this same license is imposed on all the software which contains this component when of its diffusion. This is known as a "contaminating" or "viral" license. It obliges to distribute the modified free software under the same license, to make available the associated source code and to distribute the entire program (free and proprietary) under the same license.
+A license with a strong copyleft has **a highly contaminating character**. If a software component is under a copylefted license, the same license is imposed on all the software which contains this component. This is known as a "contaminating" or "viral" license. It forces to make available the associated source code and to distribute the entire program (free and proprietary) under the same license.
 
 **Some strong copyleft licenses:**
 - GPL: General Public License V3
