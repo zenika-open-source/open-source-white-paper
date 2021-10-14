@@ -10,7 +10,7 @@ White paper about Open Source by Zenika.
 
 [English version](en/01-getting-started.md)
 
-[French version](fr/01-getting-started.md)
+[French version](fr/01-getting-started.md) (an audio file is [available](fr/01-getting-started.mp3))
 
 ### Chapter 2: Preparing your project being open sourced
 
