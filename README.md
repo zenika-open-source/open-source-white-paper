@@ -22,11 +22,7 @@ White paper about Open Source by Zenika.
 
 > How to make my project used and visible?
 
-[English version](https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/blob/master/README.md)
-
-[French version](https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/blob/master/README-fr.md)
-
-[Deutsch version](https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/blob/master/README-de.md)
+[Link to the dedicated repository](https://github.com/zenika-open-source/promote-open-source-project)
 
 ### Chapter 4: Licenses
 
