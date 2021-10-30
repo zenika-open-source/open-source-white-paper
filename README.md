@@ -18,6 +18,8 @@ White paper about Open Source by Zenika.
 
 [English version](en/02-preparing-your-project-being-open-sourced.md)
 
+[Version española](es/2-preparar-tu-proyecto-para-que-sea-de-código-abierto.md)
+
 ### Chapter 3: Promotion
 
 > How to make my project used and visible?
