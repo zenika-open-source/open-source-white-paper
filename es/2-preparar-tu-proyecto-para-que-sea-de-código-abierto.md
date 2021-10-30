@@ -17,7 +17,7 @@ A continuación describiremos cada uno de ellos y te guiaremos para que los escr
 
 El primero es bastante conocido, y probablemente tengas alguno, pero hablemos un poco sobre los README.md.
 
-Mike McQuaid teorizó sobre [el "contributor funnel" de Código Abierto](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) y cómo conseguir contribuyentes en tus proyectos de Código Abierto. Necesitas proporcionar información para todos los tipos de visitantes (_usuarios_, _contribuyentes_, _mantenedores_) en tu readme.
+Mike McQuaid teorizó sobre ["contributor funnel" de Código Abierto](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) y cómo conseguir contribuyentes en tus proyectos de Código Abierto. Necesitas proporcionar información para todos los tipos de visitantes (_usuarios_, _contribuyentes_, _mantenedores_) en tu readme.
 
 La descripción de tu proyecto y los primeros párrafos de tu readme deberían ser un resumen simple de tu proyecto y contener todas las palabras clave que la gente va a buscar. -- [Andrey Petrov](https://medium.com/code-zen/how-to-maintain-a-successful-open-source-project-aaa2a5437d3a)
 
@@ -31,7 +31,7 @@ Otra parte importante a incluir en tu readme es cómo instalar y utilizar tu pro
 
 Por último, pero no menos importante, deberías proveer instrucciones para contribuyentes futuros. La mayoría de las veces un link a tu guía de contribución es suficiente.
 
-Para gente que está empezando, una [plantilla](https://www.makeareadme.com/#template-1) se puede encontrar en makereadme.com . Contiene todas las secciones de las que hemos hablado. Allí puedes encontrar más información sobre cómo escribir un buen readme. Es más, puedes usar herramientas para generar tus readmes como [readme-md-generator] (https://github.com/kefranabg/readme-md-generator). Llena tu archivo con información extraída de tu configuración de Git (o más específicamente del archivo `package.json` si tu proyecto está hecho con JavaScript). Puedes encontrar otros [generadores de readmes](https://github.com/search?utf8=%E2%9C%93&q=generate+readme&type=Repositories) Para varios idiomas en GitHub.
+Para gente que está empezando, una [plantilla](https://www.makeareadme.com/#template-1) se puede encontrar en makereadme.com . Contiene todas las secciones de las que hemos hablado. Allí puedes encontrar más información sobre cómo escribir un buen readme. Es más, puedes usar herramientas para generar tus readmes como [readme-md-generator](https://github.com/kefranabg/readme-md-generator). Llena tu archivo con información extraída de tu configuración de Git (o más específicamente del archivo `package.json` si tu proyecto está hecho con JavaScript). Puedes encontrar otros [generadores de readmes](https://github.com/search?utf8=%E2%9C%93&q=generate+readme&type=Repositories) Para varios idiomas en GitHub.
 
 ## Licencia
 
