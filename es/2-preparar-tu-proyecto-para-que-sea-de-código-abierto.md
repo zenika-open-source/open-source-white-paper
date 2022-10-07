@@ -65,8 +65,7 @@ Deberías dejar clara también la manera de reportar infracciones, como por emai
 
 El código de conducta más famoso es el ["Contributor Covenant"](https://www.contributor-covenant.org/). Lo usan miles de proyectos de código abierto. Si tu proyecto está en GitHub puedes añadir directamente el "Contributor Covenant" o el ["Citizen Code of Conduct"](http://citizencodeofconduct.org/) mediante tu interfaz de repositorios. Tienes que ir a `Insights > Community > Code of conduct`, haciendo click en el botón de añadir y eligiendo el código de conducta, creará un commit por ti.
 
-Tu proyecto está ahora preparado para ser de código abierto. ¡Puedes empezar a 
-promocionarlo y conseguir tus primeras contribuciones!
+Tu proyecto está ahora preparado para ser de código abierto. ¡Puedes empezar a promocionarlo y conseguir tus primeras contribuciones!
 
 ¡Si quieres noticias sobre nuestros proyectos o futuros artículos, considera seguirnos en Twitter [@ZenikaOSS](https://twitter.com/ZenikaOSS)!
 
