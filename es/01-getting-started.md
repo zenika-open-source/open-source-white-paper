@@ -98,7 +98,8 @@ Todas las contribuciones son válidas y ayudan al proyecto. Aquí tienes una lis
 * Arregla bugs;
 * Añade nuevas características.
 
-Si no sabes dónde empezar, consulta la lista de issues abiertos en el proyecto. En muchos de ellos, algunos tickets se identifican con etiquetas como *"Good First Issues"* o *"Beginner"*. Están identificadas por los colaboradores principales como contribuciones simples y tomas de contacto con el proyecto. También puedes echar un ojo a los tickets categorizados como *"Help needed/wanted"*, que esperan a que alguien pueda asignarse tal tarea.
+Si no sabes por donde empezar, consulta la lista de issues abiertos en el proyecto. En muchos de ellos, algunos tickets se identifican con etiquetas como *"Good First Issues"* o *"Beginner"*. Están identificadas por los colaboradores principales como contribuciones simples y tomas de contacto con el proyecto. También puedes echar un ojo a los tickets categorizados como *"Help needed/wanted"*, que esperan a que alguien pueda asignarse tal tarea.
+
 
 Cuando hayas identificado una issue o un ticket al que deseas contribuir, deberías ubicarte en el contexto del proyecto. Así que no dudes en preguntar a otros colaboradores para pedir información. Las discusiones e intercambios de información son esenciales para empezar una nueva contribución. Te guiarán a través de las expectativas de la comunidad, cómo validar una solución técnica o identificar restricciones o dificultades potenciales.
 
