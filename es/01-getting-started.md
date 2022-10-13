@@ -1,15 +1,18 @@
 # Capítulo 1 : Poniéndonos en marcha 🥚
 
-El mundo del Open Source (o Código Abierto) es vasto y puede ser fácil perderse en éste. Al empezar, este mundo puede parecer inaccesible e intimidante, por lo que una de las preguntas en este punto es: ¿Por dónde empiezo? ¿Qué reglas y códigos de conducta tengo que seguir? ¿Puedo contribuir si ni siquiera sé programar?
+El mundo del Open Source (o Código Abierto) es vasto y puede ser fácil perderse en él. Al principio, puede parecer inaccesible e intimidante, por lo que una de las preguntas en este punto son: ¿Por dónde empiezo? ¿Qué reglas y códigos de conducta tengo que seguir? ¿Puedo contribuir si ni siquiera sé programar?
+
 No te preocupes, en este artículo os daremos todos los consejos que necesites para empezar con buen pie, elegir un buen proyecto para colaborar y así enviar tu primera contribución.
 
 ## Primeros pasos 🐣
 
-Lo primero que habría que hacer es decidir en qué proyecto quieres empezar a hacer tu primera contribución. Teniendo en cuenta que hay millones de proyectos Open Source, puede ser difícil encontrar tal proyecto.
+Lo primero que tendrias que hacer es decidir en qué proyecto quieres empezar a hacer tu primera contribución. Teniendo en cuenta que hay millones de proyectos Open Source, puede ser difícil encontrar tal proyecto.
+
 
 Una primera idea, quizás la más simple, sería **identificar proyectos que te gusten, que suelas usar o que signifiquen mucho para ti.** Será más fácil empezar en un entorno familiar que te pueda mantener motivado a colaborar a largo plazo.
 
-También es importante tener en cuenta la madurez del proyecto y su envergadura.  Puede ser tentador empezar con frameworks grandes, librerías o herramientas como VS Code, MongoDB, Android, React…. Este tipo de proyectos tienen muchos colaboradores y muchos bugs por arreglar o características por añadir. Las contribuciones en este tipo de proyectos suelen dar algo de satisfacción cuando estas acaban siendo integradas; pero debido a que estos proyectos tienen millones de líneas de código, no son la mejor elección para empezar en el Open Source. Esas comunidades ya están bien desarrolladas y mucha gente se dedica a ofrecer contribuciones que sólo unos pocos mantenedores han de revisar. Por lo tanto, se puede tardar un tiempo antes de que tu contribución sea estudiada y potencialmente acabe siendo aceptada.
+También es importante tener en cuenta la madurez del proyecto y su tamaño.  Puede ser tentador empezar con frameworks grandes, librerías o herramientas como VS Code, MongoDB, Android, React…. Este tipo de proyectos tienen muchos colaboradores y muchos bugs por arreglar o características por añadir. Las contribuciones en este tipo de proyectos suelen dar algo de satisfacción cuando estas acaban siendo integradas; pero debido a que estos proyectos tienen millones de líneas de código, no son la mejor elección para empezar en el Open Source. Esas comunidades ya están bien desarrolladas y mucha gente se dedica a ofrecer contribuciones que sólo unos pocos mantenedores han de revisar. Por lo tanto, se puede tardar un tiempo antes de que tu contribución sea estudiada y potencialmente acabe siendo aceptada.
+
 
 **Empezar en proyectos más pequeños con potencial es una mejor manera de empezar.** Echa un ojo a proyectos en auge, por ejemplo en [GitHub trending](https://github.com/trending/javascript?since=monthly), y encuentra aquellos que coincidan con tus intereses.
 
@@ -50,13 +53,16 @@ Si una contribución no sigue estas prácticas, puede que acabe siendo rechazada
 Un proyecto no sólo se limita a la documentación y el código fuente. Es también importante entender e interactuar con la comunidad del proyecto. Hay diferentes roles en un proyecto Open Source. Los tres principales:
 * Los mantenedores o colaboradores core, que están desde el principio del proyecto o han sido invitados a este rol gracias a todas las contribuciones que se han hecho.
 * Colaboradores, quienes participan en la vida del proyecto ofreciendo contribuciones (documentación, arreglos de bugs...), respondiendo preguntas o abriendo tickets.
-* Y los Usuarios, quienes usarán el proyecto y muchas veces darán feedback, mandan bugs, proponen mejoras o preguntan en foros.
+* Y los Usuarios, quienes usarán el proyecto y muchas veces dan feedback, mandan bugs, proponen mejoras o preguntan en foros.
 
-Las vías de comunicación en la comunidad varían según el proyecto. Puede ser una mailing list, un canal de Slack, un grupo de Discord u otra herramienta de este tipo. Ahí podrás hacer preguntas, ayudar a definir roadmaps, o simplemente discutir con otros.
+
+Los medios de comunicación en la comunidad varían según el proyecto. Puede ser una mailing list, un canal de Slack, un grupo de Discord u otra herramienta de este tipo. Ahí podrás hacer preguntas, ayudar a definir roadmaps, o simplemente discutir con otros.
+
 
 ## Tu primera contribución 🐥
 
-Ahora que has identificado un proyecto que te interese y hayas leído la documentación necesaria para empezar, estás listo para ofrecer tu primera contribución al mundillo.
+Ahora que has identificado un proyecto que te interese y has leído la documentación necesaria para empezar, estás listo para ofrecer tu primera contribución al mundillo.
+
 
 Sobre todo, no necesitas saber cómo programar para contribuir a proyectos Open Source:
 * ¿Te gusta escribir? Corrige o desarrolla la documentación del proyecto.
@@ -98,4 +104,5 @@ Cuando hayas identificado una issue o un ticket al que deseas contribuir, deber�
 
 Antes de publicar tu primera contribución, comprueba tu código y no dudes en probarlo antes de enviarlo. No dudes tampoco en explicar el contexto y documentar tu contribución. Todo lo que ayude a otros colaboradores y mantenedores del proyecto para revisar la contribución harán acelerar ese proceso.
 
-Finalmente, cuando hayas hecho tu primera contribución, no olvides publicarlo y compartirlo con el mundo a través de Twitter, Facebook o tu red social de preferencia.
+Finalmente, cuando hayas hecho tu primera contribución, no olvides publicarlo y compartirlo con el mundo a través de Twitter, Facebook o tu red social favorita.
+
