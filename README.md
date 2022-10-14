@@ -12,6 +12,8 @@ White paper about Open Source by Zenika.
 
 [French version](fr/01-getting-started.md) (an audio file is [available](fr/01-getting-started.mp3))
 
+[Spanish version](es/01-getting-started.md)
+
 ### Chapter 2: Preparing your project being open sourced
 
 > What are the pre-requisites before open sourcing a project?
