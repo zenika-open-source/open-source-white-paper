@@ -7,7 +7,7 @@ Pas d'inquiétude, dans cet article nous allons te donner tous les codes nécess
 
 Tout d'abord, il faut déterminer sur quel projet tu souhaites démarrer ta première contribution. Comme il existe des millions de projets open source, il peut être difficile de trouver son chemin.
 
-Une première idée, qui est peut-être la plus simple, est **d’identifier des projets que tu aimes, que tu utilises souvent ou qui t'intéressent.** Il sera alors plus évident de démarrer dans un environnement que tu connais et sur lequel tu garderas de la motivation à plus long terme.
+Une première idée, qui est peut-être la plus simple, est **d’identifier des projets que tu aimes, que tu utilises souvent ou qui t'intéressent.** Il sera alors plus facile de démarrer, dans un environnement que tu connais et pour lequel tu seras davantage motivé a long terme.
 
 Il est également important de prendre en compte la maturité du projet et sa taille. Il est tentant de démarrer sur de gros frameworks, librairies ou outils comme VS Code, MongoDB, Android, React… Ces types de projets ont de nombreux contributeurs et beaucoup de bugs à corriger ou fonctionnalités à réaliser. Les contributions sur ces projets apportent une certaine satisfaction quand elles sont intégrées. Mais ces projets, avec des millions de lignes de code, ne sont pas les meilleurs choix pour débuter dans l'open source. Ils seront plus difficiles à appréhender par leur taille et les workflows qui viennent avec. Leurs communautés sont déjà très développées et beaucoup de personnes proposent des contributions pour un nombre de mainteneurs limités. Il peut alors se passer un certain temps avant que ta contribution ne soit étudiée, puis éventuellement acceptée.
 
@@ -27,7 +27,7 @@ Une fois que tu as trouvé le ou les projets de tes rêves, il te faudra commenc
 
 ## Le code de conduite (code of conduct)
 
-**La plupart des projets open source écrivent un code de conduite.** Il permet de définir des règles et des comportements à adopter ou non sur le projet.
+**La plupart des projets open source ont un code de conduite.** Il permet de définir des règles et des comportements à adopter ou non sur le projet.
 
 Les points essentiels de ce code définissent les règles à suivre entre les participants, comme savoir respecter les différents points de vue, ou encore écouter et accepter les feedbacks sur ses contributions. Néanmoins il faut s'attendre à de potentiels désaccords. Il ne faut pas les prendre personnellement. Parfois, lors des revues, il est possible que l'on ne soit pas du même avis sur certaines décisions ou approches adoptées. Il est alors très important de rester professionnel et respecter le code de conduite. Tout feedback est bon à prendre et c'est lors de ce type de discussion que l'on apprend le plus.
 
